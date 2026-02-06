@@ -1,0 +1,960 @@
+// Datos de todas las lecciones del curso
+const lessonsData = [
+    {
+        title: "📖 Módulo 1: Fundamentos",
+        lessons: [
+            {
+                title: "1.1: Greetings and Farewells",
+                content: `# Lesson 1.1: Greetings and Farewells
+
+## Introduction
+In this lesson, you will learn how to say hello and goodbye in English. This is the first step to starting a conversation!
+
+## Greetings (Saludos)
+Common ways to say hello:
+*   **Hello**: Formal and common.
+*   **Hi**: Informal, used with friends and family.
+*   **Good morning**: Used until 12:00 PM.
+*   **Good afternoon**: Used between 12:00 PM and 6:00 PM.
+*   **Good evening**: Used after 6:00 PM when arriving.
+
+## Farewells (Despedidas)
+Common ways to say goodbye:
+*   **Goodbye**: Standard way to leave.
+*   **Bye**: Informal and very common.
+*   **See you later**: Used when you will see the person again soon.
+*   **Good night**: Used when leaving at night or going to sleep.
+
+## Real-Life Examples (Ejemplos de la vida real)
+*   **A**: Hello! Good morning.
+*   **B**: Hi! How are you?
+*   **A**: I am good, thank you. And you?
+*   **B**: I am fine. Goodbye!
+*   **A**: Bye! See you later.
+
+## More Expressions
+*   **How are you?**: ¿Cómo estás?
+*   **I am fine / I am good**: Estoy bien.
+*   **Thank you / Thanks**: Gracias.
+*   **Nice to meet you**: Mucho gusto / Encantado de conocerte.
+
+## Practice Exercises (Ejercicios de práctica)
+
+### Exercise 1: Choose the correct option
+1. When you arrive at a party at 7:30 PM, you say:
+   a) Good afternoon  b) Good evening  c) Good night
+2. When you want to be formal with your teacher, you say:
+   a) Hi  b) Hello  c) Bye
+3. When you are going to sleep, you say:
+   a) Good evening  b) Good night  c) Good morning
+
+### Exercise 2: Complete the conversation
+**Tom**: ___________, Sara! (Hi/Goodbye)
+**Sara**: Hello Tom! How ___________ you? (is/are)
+**Tom**: I am ___________, thanks. (fine/bad)
+**Sara**: Nice to ___________ you! (meet/speak)
+**Tom**: Nice to meet you too. ___________! (Bye/Morning)`
+            },
+            {
+                title: "1.2: The Alphabet and Spelling",
+                content: `# Lesson 1.2: The Alphabet and Spelling
+
+## Introduction
+Knowing the English alphabet is essential for spelling names, addresses, and new words. There are 26 letters in the English alphabet.
+
+## The Alphabet
+| Letter | Pronunciation (Approx.) |
+| :--- | :--- |
+| **A** | /eɪ/ (ay) |
+| **B** | /biː/ (bee) |
+| **C** | /siː/ (see) |
+| **D** | /diː/ (dee) |
+| **E** | /iː/ (ee) |
+| **F** | /ɛf/ (ef) |
+| **G** | /dʒiː/ (jee) |
+| **H** | /eɪtʃ/ (aitch) |
+| **I** | /aɪ/ (eye) |
+| **J** | /dʒeɪ/ (jay) |
+| **K** | /keɪ/ (kay) |
+| **L** | /ɛl/ (el) |
+| **M** | /ɛm/ (em) |
+| **N** | /ɛn/ (en) |
+| **O** | /oʊ/ (oh) |
+| **P** | /piː/ (pee) |
+| **Q** | /kjuː/ (kyoo) |
+| **R** | /ɑːr/ (ar) |
+| **S** | /ɛs/ (ess) |
+| **T** | /tiː/ (tee) |
+| **U** | /juː/ (yoo) |
+| **V** | /viː/ (vee) |
+| **W** | /ˈdʌbəl.juː/ (double-u) |
+| **X** | /ɛks/ (eks) |
+| **Y** | /waɪ/ (why) |
+| **Z** | /zɛd/ or /ziː/ (zed or zee) |
+
+## Vowels and Consonants
+*   **Vowels**: A, E, I, O, U.
+*   **Consonants**: All other letters.
+
+## Spelling Examples
+*   **Apple**: A-P-P-L-E
+*   **English**: E-N-G-L-I-S-H
+*   **House**: H-O-U-S-E
+*   **Friend**: F-R-I-E-N-D
+
+## Useful Spelling Phrases
+*   **How do you spell that?**: ¿Cómo se deletrea eso?
+*   **Could you repeat that, please?**: ¿Podrías repetir eso, por favor?
+*   **Slowly, please**: Más despacio, por favor.
+
+## Practice Exercises
+
+### Exercise 1: Spell these words out loud
+1.  CAT
+2.  WATER
+3.  OFFICE
+4.  COFFEE
+
+### Exercise 2: Fill in the missing letters
+1.  _ E L L O  (Used to greet)
+2.  A L _ H A B E T (What we are learning)
+3.  S _ E L L (How we say the letters)
+4.  T _ A C H E R (The person who teaches)`
+            },
+            {
+                title: "1.3: Numbers 1-100 and Time",
+                content: `# Lesson 1.3: Numbers 1-100 and Time
+
+## Introduction
+Numbers are useful for many things: ages, prices, phone numbers, and of course, telling the time.
+
+## Cardinal Numbers (1-20)
+*   1: One
+*   2: Two
+*   3: Three
+*   4: Four
+*   5: Five
+*   6: Six
+*   7: Seven
+*   8: Eight
+*   9: Nine
+*   10: Ten
+*   11: Eleven
+*   12: Twelve
+*   13: Thirteen
+*   14: Fourteen
+*   15: Fifteen
+*   16: Sixteen
+*   17: Seventeen
+*   18: Eighteen
+*   19: Nineteen
+*   20: Twenty
+
+## Tens (20-100)
+*   20: Twenty
+*   30: Thirty
+*   40: Forty
+*   50: Fifty
+*   60: Sixty
+*   70: Seventy
+*   80: Eighty
+*   90: Ninety
+*   100: One hundred
+
+## Telling the Time
+In English, we usually ask: **"What time is it?"**
+*   2:00 -> It's two o'clock.
+*   2:15 -> It's two fifteen (or *a quarter past two*).
+*   2:30 -> It's two thirty (or *half past two*).
+*   2:45 -> It's two forty-five (or *a quarter to three*).
+
+## Examples of Big Numbers
+*   25: Twenty-five
+*   38: Thirty-eight
+*   44: Forty-four
+*   59: Fifty-nine
+*   61: Sixty-one
+*   72: Seventy-two
+*   83: Eighty-three
+*   97: Ninety-seven
+
+## Practice Exercises
+
+### Exercise 1: Write the numbers in letters
+1. 14 -> ____________________
+2. 40 -> ____________________
+3. 11 -> ____________________
+4. 55 -> ____________________
+5. 100 -> ____________________
+
+### Exercise 2: What time is it?
+Write the time for these clocks:
+1. 10:00 -> ____________________
+2. 4:15 -> ____________________
+3. 6:30 -> ____________________
+4. 9:45 -> ____________________
+5. 1:05 -> ____________________ (Hint: It's one zero-five or one oh-five)
+
+### Exercise 3: Math in English
+1. Ten + Five = _______________ (fifteen)
+2. Twenty + Thirty = _______________
+3. Fifty - Ten = _______________
+4. Two + Eight = _______________`
+            },
+            {
+                title: "1.4: Colors and Common Objects",
+                content: `# Lesson 1.4: Colors and Common Objects
+
+## Introduction
+In this lesson, we will learn how to identify everyday items and describe them using colors.
+
+## Colors
+*   **Red** (Rojo)
+*   **Blue** (Azul)
+*   **Green** (Verde)
+*   **Yellow** (Amarillo)
+*   **Black** (Negro)
+*   **White** (Blanco)
+*   **Grey** (Gris)
+*   **Brown** (Marrón)
+*   **Pink** (Rosa)
+*   **Orange** (Naranja)
+
+## Common Objects
+*   **A book**: Un libro
+*   **A pen**: Un bolígrafo
+*   **A chair**: Una silla
+*   **A table**: Una mesa
+*   **A phone**: Un teléfono
+*   **A computer**: Una computadora
+
+## More Objects and Colors
+*   **A yellow phone**: Un teléfono amarillo.
+*   **A black computer**: Una computadora negra.
+*   **A white table**: Una mesa blanca.
+*   **A pink pen**: Un bolígrafo rosa.
+
+## Practice Exercises
+
+### Exercise 1: Translate to English (Remember the order!)
+1. Una mesa roja -> ____________________
+2. Un libro azul -> ____________________
+3. Una silla negra -> ____________________
+4. Un teléfono blanco -> ____________________
+5. Una computadora gris -> ____________________
+
+### Exercise 2: Describe the objects in your room
+Look around you and write 3 sentences using colors.
+Example: *The chair is red.*
+1. ________________________________________
+2. ________________________________________
+3. ________________________________________`
+            }
+        ]
+    },
+    {
+        title: "✍️ Módulo 2: Gramática Básica",
+        lessons: [
+            {
+                title: "2.1: Personal Pronouns and the Verb 'To Be'",
+                content: `# Lesson 2.1: Personal Pronouns and the Verb "To Be"
+
+## Introduction
+The verb **"To Be"** is the most important verb in English. It is used to describe names, nationalities, professions, and emotions.
+
+## Personal Pronouns
+| Pronoun | Translation |
+| :--- | :--- |
+| **I** | Yo |
+| **You** | Tú / Usted |
+| **He** | Él |
+| **She** | Ella |
+| **It** | (Cosa / Animal) |
+| **We** | Nosotros |
+| **You** | Ustedes / Vosotros |
+| **They** | Ellos / Ellas |
+
+## The Verb "To Be" (Affirmative)
+*   I **am** (I'm)
+*   You **are** (You're)
+*   He **is** (He's)
+*   She **is** (She's)
+*   It **is** (It's)
+*   We **are** (We're)
+*   You **are** (You're)
+*   They **are** (They're)
+
+## Negative Form (Forma Negativa)
+To make it negative, add **NOT** after the verb.
+*   I **am not** (I'm not)
+*   You **are not** (You aren't)
+*   He **is not** (He isn't)
+*   She **is not** (She isn't)
+*   We **are not** (We aren't)
+
+## Practice Exercises
+
+### Exercise 1: Use the correct form of "To Be" (am, is, are)
+1. I ___________ a student.
+2. He ___________ my friend.
+3. They ___________ from Spain.
+4. We ___________ happy today.
+5. It ___________ a big house.
+
+### Exercise 2: Change to Negative
+1. I am happy. -> ____________________
+2. She is a doctor. -> ____________________
+3. You are late. -> ____________________
+4. They are at home. -> ____________________`
+            },
+            {
+                title: "2.2: Articles and Nouns",
+                content: `# Lesson 2.2: Articles and Nouns
+
+## Introduction
+Nouns are words for people, places, and things. In English, we use articles (**a, an, the**) before nouns.
+
+## Indefinite Articles: A / An
+We use **a** or **an** when we talk about something for the first time or something "not specific".
+*   Use **A** before a consonant sound: *A book, A car, A house.*
+*   Use **An** before a vowel sound: *An apple, An egg, An ice cream.*
+
+## Definite Article: The
+We use **The** when the listener knows exactly which thing we are talking about.
+*   *The sun, The moon.*
+*   *I have a book. **The** book is red.*
+
+## More Examples
+*   **A** teacher / **A** student.
+*   **An** orange / **An** umbrella.
+*   **The** door / **The** windows.
+
+## Practice Exercises
+
+### Exercise 1: A or An?
+1. ___________ elephant.
+2. ___________ pen.
+3. ___________ office.
+4. ___________ baby.
+5. ___________ island.
+
+### Exercise 2: Plurals
+Write the plural form of these nouns:
+1. Book -> ___________
+2. Car -> ___________
+3. Person -> ___________
+4. City -> ___________
+5. Box -> ___________`
+            },
+            {
+                title: "2.3: Possessive Adjectives",
+                content: `# Lesson 2.3: Possessive Adjectives
+
+## Introduction
+Possessive adjectives show that something belongs to someone.
+
+## Table of Possessive Adjectives
+| Subject | Possessive Adjective | Example |
+| :--- | :--- | :--- |
+| I | **My** | This is **my** phone. |
+| You | **Your** | Is this **your** car? |
+| He | **His** | **His** name is Mario. |
+| She | **Her** | **Her** house is big. |
+| It | **Its** | The dog likes **its** toy. |
+| We | **Our** | **Our** school is small. |
+| They | **Their** | **Their** parents are nice. |
+
+## More Examples
+*   I have a dog. **My** dog is small.
+*   You have a car. **Your** car is fast.
+*   He has a name. **His** name is Peter.
+
+## Practice Exercises
+
+### Exercise 1: Choose the correct adjective
+1. (I) This is ___________ book. (my / your)
+2. (She) ___________ mother is nice. (her / his)
+3. (We) This is ___________ classroom. (our / their)
+4. (They) ___________ house is white. (their / your)
+
+### Exercise 2: Translate to English
+1. Mi hermana. -> ____________________
+2. Tu teléfono. -> ____________________
+3. Su casa (de ella). -> ____________________
+4. Nuestra familia. -> ____________________`
+            },
+            {
+                title: "2.4: Basic Question Words",
+                content: `# Lesson 2.4: Basic Question Words
+
+## Introduction
+To get information, we use **Question Words** (also called Wh- words).
+
+## Common Question Words
+*   **Who** (Quién): Used for people. -> *Who is your teacher?*
+*   **What** (Qué): Used for things or actions. -> *What is this?*
+*   **Where** (Dónde): Used for places. -> *Where are you from?*
+*   **When** (Cuándo): Used for time. -> *When is your birthday?*
+*   **Why** (Por qué): Used for reasons. -> *Why are you here?*
+*   **How** (Cómo): Used for manner or state. -> *How are you?*
+
+## Practice Exercises
+
+### Exercise 1: Match the Question with the Answer
+1. Who is he?            a) In London.
+2. Where are you?        b) Because it's my birthday.
+3. What is this?         c) My brother.
+4. When is the party?    d) A computer.
+5. Why are you happy?    e) On Friday.
+
+### Exercise 2: Fill in the Wh- word
+1. ___________ is your name?
+2. ___________ are you from?
+3. ___________ is the teacher? (Mr. Smith)
+4. ___________ is the lesson? (At 10:00 AM)`
+            }
+        ]
+    },
+    {
+        title: "🏠 Módulo 3: Vocabulario Cotidiano",
+        lessons: [
+            {
+                title: "3.1: Family and Relationships",
+                content: `# Lesson 3.1: Family and Relationships
+
+## Introduction
+In this lesson, you will learn the words for different members of a family.
+
+## Family Members
+*   **Parents**: Padres (en general)
+*   **Father**: Padre (Dad)
+*   **Mother**: Madre (Mom)
+*   **Son**: Hijo
+*   **Daughter**: Hija
+*   **Brother**: Hermano
+*   **Sister**: Hermana
+*   **Grandfather**: Abuelo
+*   **Grandmother**: Abuela
+*   **Uncle**: Tío
+*   **Aunt**: Tía
+*   **Cousin**: Primo/Prima
+
+## Relationships
+*   **Husband**: Esposo
+*   **Wife**: Esposa
+*   **Boyfriend**: Novio
+*   **Girlfriend**: Novia
+
+## More Examples
+*   **My father** is 50 years old.
+*   **Her sister** is in London.
+*   **Our parents** are at home.
+*   **His brother** is a student.
+
+## Practice Exercises
+
+### Exercise 1: My Family Tree (Complete with the family word)
+1. My father's father is my ____________________. (Grandfather)
+2. My mother's sister is my ____________________.
+3. My father's brother is my ____________________.
+4. My uncle's son is my ____________________.
+5. My mother's daughter is my ____________________.
+
+### Exercise 2: Describe 3 people in your family
+Use: [Name] + is + [Relationship] + [Adjective/Job]
+Example: *Maria is my mother. She is a nurse.*
+1. ________________________________________
+2. ________________________________________
+3. ________________________________________`
+            },
+            {
+                title: "3.2: My Home and Furniture",
+                content: `# Lesson 3.2: My Home and Furniture
+
+## Introduction
+Let's learn how to describe the place where you live and the things inside it.
+
+## Rooms in a House
+*   **Living room**: Sala de estar
+*   **Kitchen**: Cocina
+*   **Bedroom**: Dormitorio / Cuarto
+*   **Bathroom**: Baño
+*   **Dining room**: Comedor
+*   **Garden**: Jardín
+
+## Furniture and Objects
+*   **Bed**: Cama
+*   **Chair**: Silla
+*   **Table**: Mesa
+*   **Sofa**: Sofá
+*   **Fridge**: Nevera / Refrigerador
+*   **Window**: Ventana
+*   **Door**: Puerta
+
+## Prepositions of Place (Preposiciones de lugar)
+*   **In** (En / Dentro de): *The milk is **in** the fridge.*
+*   **On** (Sobre / Encima de): *The book is **on** the table.*
+*   **Under** (Debajo de): *The cat is **under** the chair.*
+*   **Next to** (Al lado de): *The sofa is **next to** the window.*
+
+## Practice Exercises
+
+### Exercise 1: Choose the correct preposition (in, on, under, next to)
+1. The computer is ___________ the table.
+2. The car is ___________ the garage.
+3. My shoes are ___________ the bed.
+4. The chair is ___________ the desk.
+
+### Exercise 2: Describe your house
+Complete the sentences about your home:
+1. In my living room, there is a ____________________.
+2. In my kitchen, there are ____________________.
+3. In my bedroom, my (object) ___________ is on the ___________.`
+            },
+            {
+                title: "3.3: Jobs and Workplaces",
+                content: `# Lesson 3.3: Jobs and Workplaces
+
+## Introduction
+What do you do? Where do you work? In this lesson, we learn about professions and where they happen.
+
+## Common Jobs
+*   **Teacher**: Profesor/a
+*   **Doctor**: Doctor/a - Medico/a
+*   **Nurse**: Enfermero/a
+*   **Waiter / Waitress**: Camarero/a - Mesero/a
+*   **Engineer**: Ingeniero/a
+*   **Student**: Estudiante
+*   **Chef**: Cocinero/a
+
+## Workplaces
+*   **School**: Escuela
+*   **Hospital**: Hospital
+*   **Restaurant**: Restaurante
+*   **Office**: Oficina
+*   **Factory**: Fábrica
+
+## More Jobs
+*   **Lawyer**: Abogado/a
+*   **Artist**: Artista
+*   **Pilot**: Piloto
+*   **Police officer**: Policía
+*   **Dentist**: Dentista
+
+## Practice Exercises
+
+### Exercise 1: Where do they work?
+Match the job with the place:
+1. Teacher       a) Hospital
+2. Chef          b) School
+3. Doctor        c) Office
+4. Waiter        d) Kitchen
+5. Manager       e) Restaurant
+
+### Exercise 2: Complete the sentences
+1. A doctor works in a ___________.
+2. A teacher works in a ___________.
+3. An artist works in a ___________. (Studio)
+4. I want to be a ___________.`
+            },
+            {
+                title: "3.4: Countries and Nationalities",
+                content: `# Lesson 3.4: Countries and Nationalities
+
+## Introduction
+Where are you from? Let's learn to talk about countries and the people who live there.
+
+## Table of Countries and Nationalities
+| Country | Nationality | Language |
+| :--- | :--- | :--- |
+| **Spain** | Spanish | Spanish |
+| **USA** | American | English |
+| **UK** | British | English |
+| **France** | French | French |
+| **Mexico** | Mexican | Spanish |
+| **Italy** | Italian | Italian |
+| **Japan** | Japanese | Japanese |
+
+## Grammar Note
+In English, both countries and nationalities **always** start with a **Capital Letter**.
+*   *Incorrect: i am spanish.*
+*   *Correct: I am **S**panish.*
+
+## More Countries
+| Country | Nationality |
+| :--- | :--- |
+| **China** | Chinese |
+| **Brazil** | Brazilian |
+| **Germany** | German |
+| **Canada** | Canadian |
+| **Australia** | Australian |
+
+## Practice Exercises
+
+### Exercise 1: Write the nationality
+1. He is from Mexico. He is ____________________.
+2. She is from Japan. She is ____________________.
+3. They are from Italy. They are ____________________.
+4. We are from the USA. We are ____________________.
+5. You are from Spain. You are ____________________.
+
+### Exercise 2: Complete the conversation
+**A**: Hello! What is your name?
+**B**: Hi! My name is Hans.
+**A**: Where are you ___________? (from / is)
+**B**: I am from Germany.
+**A**: Oh! So you are ___________? (German / Germany)
+**B**: Yes, I am. And you?
+**A**: I am ___________ France. I am French.`
+            }
+        ]
+    },
+    {
+        title: "🌍 Módulo 4: Comunicación",
+        lessons: [
+            {
+                title: "4.1: Present Simple (Part 1) - Affirmative",
+                content: `# Lesson 4.1: Present Simple (Part 1) - Affirmative
+
+## Introduction
+The **Present Simple** is used to talk about habits, routines, and general truths.
+
+## Affirmative Structure
+*   **I / You / We / They** + Verb: *I eat apples.*
+*   **He / She / It** + Verb(**s**): *She eat**s** apples.*
+
+## The "Third Person" Rule
+When using **He, She, or It**, we usually add an **-s** to the verb:
+*   *I work* -> *He work**s***
+*   *I speak* -> *She speak**s***
+*   *I play* -> *It play**s***
+
+## Special Endings
+*   If the verb ends in **-ch, -sh, -x, -s, or -o**, add **-es**:
+    *   *Watch* -> *Watch**es***
+    *   *Go* -> *Go**es***
+*   If the verb ends in **consonant + y**, change to **-ies**:
+    *   *Study* -> *Stud**ies***
+
+## Daily Routine Examples
+*   I **wake up** at 7:00 AM.
+*   She **has** breakfast with her family.
+*   We **work** from Monday to Friday.
+*   He **goes** to the gym in the afternoon.
+
+## Practice Exercises
+
+### Exercise 1: Write the third person form (-s, -es, -ies)
+1. Live -> ____________________
+2. Watch -> ____________________
+3. Study -> ____________________
+4. Buy -> ____________________
+5. Do -> ____________________
+
+### Exercise 2: Complete with the correct form of the verb
+1. He (work) ___________ in an office.
+2. They (live) ___________ in Madrid.
+3. She (study) ___________ English on Mondays.
+4. I (play) ___________ the piano.
+5. It (rain) ___________ a lot in winter.`
+            },
+            {
+                title: "4.2: Present Simple (Part 2) - Negative and Questions",
+                content: `# Lesson 4.2: Present Simple (Part 2) - Negative and Questions
+
+## Introduction
+To make negative sentences and questions in the Present Simple, we need the auxiliary verb **DO / DOES**.
+
+## Negative Sentences (Subject + Do/Does + Not + Verb)
+*   **I / You / We / They** + **do not** (**don't**): *I don't play tennis.*
+*   **He / She / It** + **does not** (**doesn't**): *She doesn't like pizza.*
+
+**IMPORTANT**: When you use *doesn't*, the verb **loses** its "-s":
+*   *He speaks English* -> *He **doesn't speak** English.*
+
+## Questions (Do/Does + Subject + Verb?)
+*   **Do** you speak English? -> *Yes, I do. / No, I don't.*
+*   **Does** he live here? -> *Yes, he does. / No, he doesn't.*
+
+## Short Answers (Respuestas cortas)
+*   **Do you like coffee?**
+    *   Yes, I **do**.
+    *   No, I **don't**.
+*   **Does she live here?**
+    *   Yes, she **does**.
+    *   No, she **doesn't**.
+
+## Practice Exercises
+
+### Exercise 1: Turn these into Negative sentences
+1. We speak French. -> ____________________
+2. He eats meat. -> ____________________
+3. You have a car. -> ____________________
+4. My sister plays tennis. -> ____________________
+
+### Exercise 2: Write the Question (Use Do or Does)
+1. (You / like / chocolate) -> ________________________________________?
+2. (They / live / in Spain) -> ________________________________________?
+3. (He / work / on Saturdays) -> ________________________________________?
+4. (She / have / a dog) -> ________________________________________?`
+            },
+            {
+                title: "4.3: Common Verbs and Collocations",
+                content: `# Lesson 4.3: Common Verbs and Collocations
+
+## Introduction
+Let's learn some of the most used verbs in English and the words they usually go with (collocations).
+
+## Top Verbs
+*   **Have**: Tener / Haber -> *I have a dog.*
+*   **Go**: Ir -> *I go to the park.*
+*   **Do**: Hacer (actividad) -> *I do my homework.*
+*   **Make**: Hacer (crear/fabricar) -> *I make a cake.*
+*   **Eat**: Comer -> *I eat lunch at 1:00 PM.*
+*   **Drink**: Beber -> *I drink water.*
+
+## Common Combinations (Collocations)
+*   **Have** breakfast / lunch / dinner.
+*   **Go** home / **Go** to work.
+*   **Watch** TV / a movie.
+*   **Listen to** music / the radio.
+*   **Play** video games / soccer / the piano.
+
+## More Common Phrases
+*   **Take** a shower / a taxi.
+*   **Read** a book / the news.
+*   **Write** an email / a letter.
+*   **Talk to** a friend / the boss.
+
+## Practice Exercises
+
+### Exercise 1: Match the verb with the object
+1. Watch       a) Lunch
+2. Listen to   b) A shower
+3. Eat         c) TV
+4. Drink       d) Music
+5. Take        e) Orange juice
+
+### Exercise 2: Fill in the blank with a verb from the list
+*(have, go, do, make, play)*
+1. I ___________ my homework in the afternoon.
+2. We ___________ dinner at 8:00 PM.
+3. They ___________ to school by bus.
+4. She ___________ the guitar very well.
+5. He ___________ a delicious cake.`
+            },
+            {
+                title: "4.4: Adverbs of Frequency",
+                content: `# Lesson 4.4: Adverbs of Frequency
+
+## Introduction
+How often do you do things? We use adverbs of frequency to explain this.
+
+## Frequency Scale
+*   **Always** (Siempre) - 100%
+*   **Usually** (Usualmente) - 80%
+*   **Often** (A menudo) - 60%
+*   **Sometimes** (A veces) - 40%
+*   **Never** (Nunca) - 0%
+
+## Word Order
+These adverbs usually go **before** the main verb, but **after** the verb "To Be".
+*   *I **always** drink coffee.* (Before verb "drink").
+*   *I am **always** happy.* (After verb "To Be").
+
+## Frequency Questionnaire
+How often do you do these things? Answer using Always, Usually, Often, Sometimes, or Never.
+1. How often do you drink coffee? -> ____________________
+2. How often do you go to the gym? -> ____________________
+3. How often do you study English? -> ____________________
+4. How often do you watch movies? -> ____________________
+
+## Practice Exercises
+
+### Exercise 1: Put the words in the correct order
+1. often / I / music / listen to / . -> ________________________________________
+2. is / she / never / late / . -> ________________________________________
+3. play / we / sometimes / tennis / . -> ________________________________________
+4. always / they / helpful / are / . -> ________________________________________
+
+### Exercise 2: Describe your routine
+Write two things you **always** do and two things you **never** do.
+1. ________________________________________
+2. ________________________________________
+3. ________________________________________
+4. ________________________________________`
+            }
+        ]
+    },
+    {
+        title: "🎯 Módulo 5: Avanzado",
+        lessons: [
+            {
+                title: "5.1: Describing People and Things",
+                content: `# Lesson 5.1: Describing People and Things
+
+## Introduction
+Adjectives are words that describe nouns. In this lesson, we will learn basic adjectives to describe appearance and quality.
+
+## Physical Description
+*   **Tall** (Alto/a) vs. **Short** (Bajo/a)
+*   **Thin** (Delgado/a) vs. **Fat** (Gordo/a) - *(Be careful, "fat" can be rude! Use "Overweight" or "Large")*
+*   **Beautiful** (Hermoso/a) / **Pretty** (Bonita)
+*   **Handsome** (Guapo - for men)
+*   **Old** (Viejo/a) vs. **Young** (Joven)
+
+## Quality Adjectives
+*   **Big** (Grande) vs. **Small** (Pequeño/a)
+*   **Good** (Bueno/a) vs. **Bad** (Malo/a)
+*   **Expensive** (Caro/a) vs. **Cheap** (Barato/a)
+*   **Easy** (Fácil) vs. **Difficult** (Difícil)
+
+## More Examples
+*   He is a **young** man.
+*   That phone is very **expensive**.
+*   This exercise is **easy**.
+*   My car is **old**.
+
+## Practice Exercises
+
+### Exercise 1: Write the opposite
+1. Big -> ____________________ (Small)
+2. Good -> ____________________
+3. Expensive -> ____________________
+4. Tall -> ____________________
+5. Young -> ____________________
+
+### Exercise 2: Describe your best friend
+Write 3 sentences using the adjectives you learned.
+Example: *My friend is tall and pretty.*
+1. ________________________________________
+2. ________________________________________
+3. ________________________________________`
+            },
+            {
+                title: "5.2: Places in the City",
+                content: `# Lesson 5.2: Places in the City
+
+## Introduction
+Where do you go on the weekends? Let's learn the names of common places in a city.
+
+## In the City
+*   **Park**: Parque
+*   **Supermarket**: Supermercado
+*   **Cinema / Movie theater**: Cine
+*   **Bank**: Banco
+*   **Library**: Biblioteca
+*   **Hospital**: Hospital
+*   **Bus stop**: Parada de autobús
+*   **Restaurant**: Restaurante
+*   **Store / Shop**: Tienda
+
+## More Places
+*   **Gym**: Gimnasio
+*   **Bakery**: Panadería
+*   **Pharmacy**: Farmacia
+*   **Post Office**: Oficina de correos
+*   **Museum**: Museo
+
+## Practice Exercises
+
+### Exercise 1: Where do you go to...?
+Complete with a place from the list.
+1. To buy food -> ____________________
+2. To save money -> ____________________
+3. To watch a movie -> ____________________
+4. To see a doctor -> ____________________
+5. To wait for a bus -> ____________________
+
+### Exercise 2: Giving simple directions
+Translate these phrases:
+1. Turn left -> ____________________
+2. Turn right -> ____________________
+3. Go straight -> ____________________
+4. Stop -> ____________________`
+            },
+            {
+                title: "5.3: Food and Drink",
+                content: `# Lesson 5.3: Food and Drink
+
+## Introduction
+Eating is a universal activity! Let's learn to name common food items and express likes.
+
+## Food
+*   **Bread**: Pan
+*   **Rice**: Arroz
+*   **Meat**: Carne
+*   **Chicken**: Pollo
+*   **Fruit**: Fruta (Apple, Banana, Orange)
+*   **Vegetables**: Verduras (Tomato, Potato, Carrot)
+*   **Cheese**: Queso
+
+## Drink
+*   **Water**: Agua
+*   **Milk**: Leche
+*   **Coffee**: Café
+*   **Tea**: Té
+*   **Juice**: Jugo / Zumo
+
+## Meal Times
+*   **Breakfast**: Desayuno (Morning)
+*   **Lunch**: Almuerzo / Comida (Afternoon)
+*   **Dinner**: Cena (Evening)
+
+## Practice Exercises
+
+### Exercise 1: Healthy or Junk Food?
+Sort these items: *(Apple, Pizza, Carrot, Burger, Salad, Soda)*
+*   **Healthy Food**: ________________________________________
+*   **Junk Food**: ________________________________________
+
+### Exercise 2: Express your likes
+Write 3 sentences about what you like and don't like to eat.
+Example: *I like chicken, but I don't like fish.*
+1. ________________________________________
+2. ________________________________________
+3. ________________________________________`
+            },
+            {
+                title: "5.4: The Weather and Seasons",
+                content: `# Lesson 5.4: The Weather and Seasons
+
+## Introduction
+Talking about the weather is very common in English conversations!
+
+## The Weather
+*   **Sunny** (Soleado)
+*   **Cloudy** (Nublado)
+*   **Rainy** (Lluvioso)
+*   **Snowy** (Nevado)
+*   **Hot** (Caluroso)
+*   **Cold** (Frío)
+*   **Windy** (Con viento)
+
+## The Seasons
+*   **Spring**: Primavera
+*   **Summer**: Verano
+*   **Autumn (Fall)**: Otoño
+*   **Winter**: Invierno
+
+## Weather Details
+*   **It is hot and sunny**: Summer.
+*   **It is cold and snowy**: Winter.
+*   **It is rainy and windy**: Autumn.
+*   **It is warm and cloudy**: Spring.
+
+## Practice Exercises
+
+### Exercise 1: What do you wear? (Match the weather with the clothes)
+1. It is very cold.      a) T-shirt and shorts.
+2. It is sunny and hot.  b) Jacket and boots.
+3. It is rainy.          c) Umbrella and raincoat.
+
+### Exercise 2: Describe today's weather
+Write two sentences about the weather today.
+1. ________________________________________
+2. ________________________________________`
+            }
+        ]
+    }
+];

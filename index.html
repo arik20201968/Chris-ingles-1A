@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curso Interactivo de Inglés</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📚 Curso Interactivo de Inglés</h1>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressBar"></div>
+            </div>
+            <p class="progress-text">Progreso: <span id="progressText">0%</span></p>
+        </header>
+
+        <div class="main-content">
+            <aside class="sidebar">
+                <h2>Módulos</h2>
+                <nav id="moduleNav"></nav>
+            </aside>
+
+            <main class="lesson-content">
+                <div id="welcomeScreen" class="welcome">
+                    <h2>¡Bienvenido al Curso de Inglés!</h2>
+                    <p>Este curso interactivo te guiará a través de 5 módulos con 20 lecciones en total.</p>
+                    <div class="module-overview">
+                        <div class="module-card">
+                            <h3>📖 Módulo 1: Fundamentos</h3>
+                            <p>Saludos, alfabeto, números y presentaciones básicas</p>
+                        </div>
+                        <div class="module-card">
+                            <h3>✍️ Módulo 2: Gramática Básica</h3>
+                            <p>Pronombres, verbos y estructuras fundamentales</p>
+                        </div>
+                        <div class="module-card">
+                            <h3>🏠 Módulo 3: Vocabulario Cotidiano</h3>
+                            <p>Familia, hogar y vida diaria</p>
+                        </div>
+                        <div class="module-card">
+                            <h3>🌍 Módulo 4: Comunicación</h3>
+                            <p>Conversaciones y situaciones prácticas</p>
+                        </div>
+                        <div class="module-card">
+                            <h3>🎯 Módulo 5: Avanzado</h3>
+                            <p>Consolidación y práctica avanzada</p>
+                        </div>
+                    </div>
+                    <button class="btn-primary" onclick="startCourse()">Comenzar Curso</button>
+                </div>
+
+                <div id="lessonScreen" class="lesson hidden">
+                    <div class="lesson-header">
+                        <button class="btn-back" onclick="goBack()">← Volver</button>
+                        <h2 id="lessonTitle"></h2>
+                    </div>
+                    <div id="lessonBody" class="lesson-body"></div>
+                    <div class="lesson-navigation">
+                        <button class="btn-secondary" id="prevBtn" onclick="previousLesson()">← Anterior</button>
+                        <button class="btn-primary" id="nextBtn" onclick="nextLesson()">Siguiente →</button>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <script src="lessons-data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
