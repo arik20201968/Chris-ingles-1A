@@ -4194,82 +4194,586 @@ Fill in the blanks with appropriate places:
                 content: `# Lesson 5.3: Food and Drink
 
 ## Introduction
-Eating is a universal activity! Let's learn to name common food items and express likes.
+Food and drink are central to daily life and social interactions. Learning vocabulary related to meals, ingredients, and dining will greatly enhance your English communication skills. In this lesson, we will explore common food and drink items, discuss different types of meals, learn how to describe tastes, and practice ordering at restaurants.
 
-## Food
+## Food Categories (Categorías de alimentos)
+
+### Fruits (Frutas)
+*   **Apple**: Manzana
+*   **Banana**: Plátano
+*   **Orange**: Naranja
+*   **Grapes**: Uvas
+*   **Strawberry**: Fresa
+*   **Mango**: Mango
+*   **Pineapple**: Piña
+
+### Vegetables (Verduras)
+*   **Carrot**: Zanahoria
+*   **Potato**: Patata
+*   **Tomato**: Tomate
+*   **Onion**: Cebolla
+*   **Lettuce**: Lechuga
+*   **Broccoli**: Brócoli
+*   **Spinach**: Espinacas
+
+### Meats (Carnes)
+*   **Chicken**: Pollo
+*   **Beef**: Carne de res
+*   **Pork**: Cerdo
+*   **Fish**: Pescado
+*   **Lamb**: Cordero
+*   **Sausage**: Salchicha
+
+### Dairy Products (Productos lácteos)
+*   **Milk**: Leche
+*   **Cheese**: Queso
+*   **Yogurt**: Yogur
+*   **Butter**: Mantequilla
+
+### Grains & Breads (Granos y panes)
 *   **Bread**: Pan
 *   **Rice**: Arroz
-*   **Meat**: Carne
-*   **Chicken**: Pollo
-*   **Fruit**: Fruta (Apple, Banana, Orange)
-*   **Vegetables**: Verduras (Tomato, Potato, Carrot)
-*   **Cheese**: Queso
+*   **Pasta**: Pasta
+*   **Cereal**: Cereal
+*   **Oats**: Avena
 
-## Drink
+### Sweets & Desserts (Dulces y postres)
+*   **Cake**: Pastel
+*   **Cookies**: Galletas
+*   **Ice cream**: Helado
+*   **Chocolate**: Chocolate
+*   **Candy**: Caramelo
+
+## Drinks (Bebidas)
 *   **Water**: Agua
-*   **Milk**: Leche
+*   **Juice**: Jugo (Orange juice, Apple juice)
 *   **Coffee**: Café
 *   **Tea**: Té
-*   **Juice**: Jugo / Zumo
+*   **Soft drink / Soda**: Refresco
+*   **Beer**: Cerveza
+*   **Wine**: Vino
 
-## Meal Times
-*   **Breakfast**: Desayuno (Morning)
-*   **Lunch**: Almuerzo / Comida (Afternoon)
-*   **Dinner**: Cena (Evening)
+## Meals and Meal Times (Comidas y horarios)
+*   **Breakfast**: Desayuno (Usually 7-9 AM)
+*   **Lunch**: Almuerzo / Comida (Usually 12-2 PM)
+*   **Dinner**: Cena (Usually 6-9 PM)
+*   **Snack**: Merienda / Aperitivo (Between meals)
+
+## Cooking Verbs (Verbos de cocina)
+*   **Cook**: Cocinar
+*   **Bake**: Hornear (for bread, cake)
+*   **Fry**: Freír
+*   **Boil**: Hervir
+*   **Grill**: Asar a la parrilla
+*   **Roast**: Asar (in an oven)
+*   **Chop**: Picar
+*   **Cut**: Cortar
+*   **Mix**: Mezclar
+*   **Peel**: Pelar
+
+## Tastes and Flavors (Sabores)
+*   **Sweet**: Dulce (Sugar, candy)
+*   **Salty**: Salado (Chips, fries)
+*   **Sour**: Agrio (Lemon, vinegar)
+*   **Bitter**: Amargo (Dark chocolate, coffee)
+*   **Spicy**: Picante (Chili, hot sauce)
+*   **Delicious**: Delicioso (General positive)
+*   **Tasteless**: Insípido (No flavor)
+
+## Eating Out (Comer fuera)
+
+### Restaurant Phrases (Frases en restaurante)
+*   **A table for two, please.** (Una mesa para dos, por favor.)
+*   **Can I see the menu?** (¿Puedo ver el menú?)
+*   **What do you recommend?** (¿Qué recomienda?)
+*   **I'd like the chicken, please.** (Me gustaría el pollo, por favor.)
+*   **Can I have a glass of water?** (¿Me puede traer un vaso de agua?)
+*   **The bill, please.** (La cuenta, por favor.)
+*   **Keep the change.** (Quédese con el cambio.)
+
+## Grammar Focus: Countable and Uncountable Nouns
+
+### Countable Nouns
+Things we can count individually:
+*   **An apple** (one apple), **two apples**
+*   **A carrot**, **three carrots**
+*   **A sandwich**, **four sandwiches**
+
+### Uncountable Nouns
+Things we cannot count individually. We use units of measurement for them:
+*   **Water** (not "a water" or "two waters") → a glass of water, a bottle of water
+*   **Rice** → a plate of rice, a kilo of rice
+*   **Milk** → a carton of milk, a liter of milk
+*   **Bread** → a slice of bread, a loaf of bread
+*   **Coffee** → a cup of coffee
+
+### Quantifiers with Countable/Uncountable Nouns
+*   **Some**: Usamos para cantidades indefinidas, con contables en plural e incontables.
+    *   *I have **some** apples.* (Contable plural)
+    *   *I need **some** milk.* (Incontable)
+*   **Any**: Usamos en preguntas y oraciones negativas, con contables en plural e incontables.
+    *   *Do you have **any** questions?* (Contable plural)
+    *   *I don't have **any** sugar.* (Incontable)
+*   **How much**: Usamos para preguntar por la cantidad de incontables.
+    *   *How much sugar do you want?*
+*   **How many**: Usamos para preguntar por la cantidad de contables en plural.
+    *   *How many apples do you have?*
+
+## Real-Life Examples (Ejemplos de la vida real)
+
+### Example 1: At the Supermarket
+*   **A**: Do we have any milk left?
+*   **B**: No, we don't have any milk. We need a carton of milk.
+*   **A**: Okay. And how many apples do you want?
+*   **B**: Just some apples, maybe three or four.
+---
+*   **A**: ¿Nos queda leche?
+*   **B**: No, no nos queda leche. Necesitamos un cartón de leche.
+*   **A**: Vale. ¿Y cuántas manzanas quieres?
+*   **B**: Solo algunas manzanas, quizás tres o cuatro.
+
+### Example 2: Ordering at a Restaurant
+*   **Waiter**: Good evening! A table for two?
+*   **Customer A**: Yes, please. Can we see the menu?
+*   **Waiter**: Of course. Here you are.
+*   **Customer B**: What do you recommend?
+*   **Waiter**: Our grilled salmon is very popular.
+*   **Customer A**: I'd like the salmon, please. And a glass of water.
+*   **Customer B**: I'll have the beef with some rice.
+---
+*   **Camarero**: ¡Buenas noches! ¿Una mesa para dos?
+*   **Cliente A**: Sí, por favor. ¿Podemos ver el menú?
+*   **Camarero**: Por supuesto. Aquí tienen.
+*   **Cliente B**: ¿Qué recomienda?
+*   **Camarero**: Nuestro salmón a la parrilla es muy popular.
+*   **Cliente A**: Me gustaría el salmón, por favor. Y un vaso de agua.
+*   **Cliente B**: Yo tomaré la carne de res con arroz.
+
+### Example 3: Describing Food
+*   **A**: This cake is delicious! Is it sweet?
+*   **B**: Yes, it's very sweet. My grandma baked it.
+*   **A**: Wow, she's a great cook! What about this spicy soup?
+*   **B**: It's a bit too spicy for me, but it's tasty.
+---
+*   **A**: ¡Este pastel está delicioso! ¿Es dulce?
+*   **B**: Sí, es muy dulce. Lo horneó mi abuela.
+*   **A**: ¡Guau, es una gran cocinera! ¿Qué hay de esta sopa picante?
+*   **B**: Es un poco demasiado picante para mí, pero está sabrosa.
+
+## Common Mistakes (Errores comunes)
+
+### Mistake 1: Using "a/an" with uncountable nouns
+*   ❌ *I need a water.*
+*   ✅ *I need some water.* or *I need a glass of water.*
+
+### Mistake 2: Confusing "much" and "many"
+*   ❌ *How much apples do you have?*
+*   ✅ *How many apples do you have?*
+*   ❌ *How many milk do you want?*
+*   ✅ *How much milk do you want?*
+
+### Mistake 3: Incorrect use of "some" and "any"
+*   ❌ *Do you have some sugar?* (in a question expecting "yes" or "no")
+*   ✅ *Do you have any sugar?*
+*   ❌ *I don't have some money.*
+*   ✅ *I don't have any money.*
+*   "Some" can be used in questions when offering something or expecting a "yes" answer (e.g., "Would you like some coffee?").
+
+### Mistake 4: Saying "Eat dinner" instead of "Have dinner"
+*   While "eat dinner" is not strictly wrong, "have dinner" is more natural and common in English.
+*   ❌ *I usually eat dinner at 7 PM.*
+*   ✅ *I usually have dinner at 7 PM.*
 
 ## Practice Exercises
 
-### Exercise 1: Healthy or Junk Food?
-Sort these items: *(Apple, Pizza, Carrot, Burger, Salad, Soda)*
-*   **Healthy Food**: ________________________________________
-*   **Junk Food**: ________________________________________
+### Exercise 1: Categorize Food and Drink
+Write each item under the correct category:
+*(Milk, Apple, Beef, Carrot, Coffee, Cake, Potato, Wine, Rice, Strawberry, Pork, Juice, Broccoli, Chocolate, Beer, Lettuce)*
 
-### Exercise 2: Express your likes
-Write 3 sentences about what you like and don't like to eat.
-Example: *I like chicken, but I don't like fish.*
-1. ________________________________________
-2. ________________________________________
-3. ________________________________________`
+*   **Fruits**: ________________________________________
+*   **Vegetables**: ________________________________________
+*   **Meats**: ________________________________________
+*   **Dairy Products**: ________________________________________
+*   **Grains**: ________________________________________
+*   **Sweets**: ________________________________________
+*   **Drinks**: ________________________________________
+
+### Exercise 2: Countable or Uncountable?
+Write C (Countable) or U (Uncountable) next to each noun:
+
+1. Apple ____
+2. Water ____
+3. Rice ____
+4. Carrot ____
+5. Milk ____
+6. Bread ____
+7. Strawberry ____
+8. Coffee ____
+9. Fish ____
+10. Sugar ____
+
+### Exercise 3: Complete with Some or Any
+Complete the sentences with "some" or "any":
+
+1. Do you have ___________ questions?
+2. I need ___________ milk for my coffee.
+3. There isn't ___________ bread left.
+4. We have ___________ oranges, but not many.
+5. She doesn't eat ___________ meat.
+6. Would you like ___________ tea?
+7. There are ___________ cookies in the jar.
+8. Is there ___________ juice in the fridge?
+
+### Exercise 4: Complete with How much or How many
+Complete the questions with "How much" or "How many":
+
+1. ___________ sugar do you put in your coffee?
+2. ___________ apples did you buy?
+3. ___________ milk is in the bottle?
+4. ___________ students are in the class?
+5. ___________ money do you need?
+6. ___________ friends do you have?
+7. ___________ rice do you want?
+8. ___________ tomatoes do we need for the salad?
+
+### Exercise 5: Match the Cooking Verb
+Match each food item with the most appropriate cooking verb:
+
+1. Chicken ____
+2. Cake ____
+3. Pasta ____
+4. Potatoes ____
+5. Fish ____
+6. Vegetables ____
+
+*(Verbs: Bake, Boil, Fry, Roast, Chop, Grill)*
+
+### Exercise 6: Describe the Taste
+What taste is typically associated with these foods/drinks? (Sweet, Salty, Sour, Bitter, Spicy)
+
+1. Lemon ____
+2. Chocolate (dark) ____
+3. Chips ____
+4. Chili ____
+5. Candy ____
+
+### Exercise 7: Restaurant Dialogue
+Put the dialogue in the correct order:
+
+*   A) Here you are. What would you like to order?
+*   B) Yes, please. A table for three.
+*   C) The chicken with vegetables, please.
+*   D) Good evening! A table for two?
+*   E) Thank you!
+
+Correct Order: ________________________________________
+
+### Exercise 8: Translate to English
+Translate these phrases to English:
+
+1. Me gustaría un café, por favor. → ________________________________________
+2. La cuenta, por favor. → ________________________________________
+3. ¿Qué recomiendas? → ________________________________________
+4. ¿Cuánta agua necesitas? → ________________________________________
+5. No tengo carne. → ________________________________________
+6. ¿Tienes alguna pregunta? → ________________________________________
+7. Este pastel es delicioso y dulce. → ________________________________________
+
+### Exercise 9: Correct the Mistakes
+Find and correct the mistake in each sentence:
+
+1. I need a milk.
+2. How many coffee do you drink?
+3. Do you have some oranges?
+4. She doesn't eat some vegetables.
+5. I like a spicy food.
+6. We usually eat dinner at 8 PM.
+
+### Exercise 10: Complete the Conversation
+Fill in the blanks with appropriate words from the lesson:
+
+**A**: What do you usually have for ___________?
+**B**: I usually have ___________ and ___________ juice.
+**A**: Do you like ___________?
+**B**: Yes, I love it! Especially ___________ chicken.
+**A**: How ___________ water do you drink a day?
+**B**: I try to drink at least eight ___________ of water.
+**A**: That's healthy! Let's go to a ___________ tonight.
+**B**: Great idea! I'm in the mood for ___________ food.
+
+### Exercise 11: Describe your favorite meal
+Write a short paragraph (4-6 sentences) describing your favorite meal. Include what it is, its main ingredients, how it tastes, and when/where you usually eat it.
+
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+
+### Exercise 12: Role-play (Imagine you are at a restaurant)
+Write a short dialogue (A and B) where one person orders food and drink, and the other responds (e.g., a waiter or a friend).
+
+**A**: ________________________________________
+**B**: ________________________________________
+**A**: ________________________________________
+**B**: ________________________________________
+**A**: ________________________________________
+**B**: ________________________________________
+
+---
+*Next Lesson: 5.4 The Weather and Seasons*`
             },
             {
                 title: "5.4: The Weather and Seasons",
                 content: `# Lesson 5.4: The Weather and Seasons
 
 ## Introduction
-Talking about the weather is very common in English conversations!
+Talking about the weather is a very common topic in everyday English conversations, serving as a natural icebreaker or a simple way to connect. Understanding how to describe different weather conditions and seasons will enable you to engage in these discussions easily. In this lesson, we will cover vocabulary for various weather types, temperatures, seasonal characteristics, and how to ask and answer questions about the weather.
 
-## The Weather
-*   **Sunny** (Soleado)
-*   **Cloudy** (Nublado)
-*   **Rainy** (Lluvioso)
-*   **Snowy** (Nevado)
-*   **Hot** (Caluroso)
-*   **Cold** (Frío)
-*   **Windy** (Con viento)
+## Common Weather Conditions (Condiciones climáticas comunes)
 
-## The Seasons
-*   **Spring**: Primavera
-*   **Summer**: Verano
-*   **Autumn (Fall)**: Otoño
-*   **Winter**: Invierno
+### General Weather (Clima general)
+*   **Sunny**: Soleado (clear skies, sun shining)
+*   **Cloudy**: Nublado (many clouds, sun might be hidden)
+*   **Partly Cloudy**: Parcialmente nublado (some clouds, some sun)
+*   **Rainy**: Lluvioso (rain falling)
+*   **Stormy**: Tormentoso (strong winds, heavy rain, thunder, lightning)
+*   **Windy**: Ventoso (lots of wind)
+*   **Snowy**: Nevado (snow falling)
+*   **Foggy**: Con niebla (thick fog, low visibility)
+*   **Icy**: Helado (ground covered in ice)
 
-## Weather Details
-*   **It is hot and sunny**: Summer.
-*   **It is cold and snowy**: Winter.
-*   **It is rainy and windy**: Autumn.
-*   **It is warm and cloudy**: Spring.
+### Temperature (Temperatura)
+*   **Hot**: Caluroso (very high temperature)
+*   **Warm**: Templado / Cálido (pleasantly high temperature)
+*   **Mild**: Suave (neither hot nor cold, pleasant)
+*   **Cool**: Fresco (slightly cold, but pleasant)
+*   **Cold**: Frío (low temperature)
+*   **Freezing**: Helado / Gélido (extremely cold, below 0°C/32°F)
+
+### Natural Phenomena (Fenómenos naturales)
+*   **Thunder**: Trueno
+*   **Lightning**: Relámpago
+*   **Rainbow**: Arcoíris
+*   **Hail**: Granizo
+*   **Drought**: Sequía
+*   **Flood**: Inundación
+
+## Asking About the Weather (Preguntar sobre el clima)
+
+### Common Questions
+*   **What's the weather like?** (¿Qué tiempo hace?)
+*   **How's the weather?** (¿Cómo está el clima?)
+*   **What's the temperature?** (¿Cuál es la temperatura?)
+*   **Is it hot/cold/sunny/rainy?** (¿Hace calor/frío/está soleado/lluvioso?)
+*   **Is it going to rain/snow?** (¿Va a llover/nevar?)
+
+## Describing the Weather (Describir el clima)
+
+### Basic Structure: It is + Adjective
+We almost always use "**It is**" or "**It's**" to talk about the weather:
+*   **It is sunny.** (Está soleado.)
+*   **It's cold.** (Hace frío.)
+*   **It's raining.** (Está lloviendo. - continuous action)
+*   **It's snowing.** (Está nevando. - continuous action)
+*   **It's 25 degrees Celsius.** (Hace 25 grados Celsius.)
+
+### Advanced Descriptions
+*   **The sun is shining.** (El sol brilla.)
+*   **The wind is blowing.** (El viento sopla.)
+*   **There is a storm.** (Hay una tormenta.)
+*   **There are clouds in the sky.** (Hay nubes en el cielo.)
+
+## The Four Seasons (Las cuatro estaciones)
+
+### 1. Spring (Primavera) - March, April, May (in Northern Hemisphere)
+*   **Characteristics**: Mild, fresh, sometimes rainy, flowers bloom, trees become green.
+*   **Activities**: Planting, going for walks, enjoying nature.
+*   **Clothing**: Light jackets, sweaters, raincoats.
+
+### 2. Summer (Verano) - June, July, August
+*   **Characteristics**: Hot, sunny, sometimes humid, long days.
+*   **Activities**: Swimming, going to the beach, barbecues, vacations.
+*   **Clothing**: T-shirts, shorts, dresses, swimwear, sunglasses.
+
+### 3. Autumn / Fall (Otoño) - September, October, November
+*   **Characteristics**: Cool, windy, leaves change color (red, orange, brown), sometimes rainy.
+*   **Activities**: Harvesting, enjoying fall foliage, Halloween.
+*   **Clothing**: Sweaters, light coats, scarves.
+
+### 4. Winter (Invierno) - December, January, February
+*   **Characteristics**: Cold, snowy, icy, short days.
+*   **Activities**: Skiing, snowboarding, staying indoors by the fire, holidays.
+*   **Clothing**: Heavy coats, hats, gloves, scarves, boots.
+
+## Real-Life Examples (Ejemplos de la vida real)
+
+### Example 1: Morning Conversation
+*   **A**: Good morning! What's the weather like today?
+*   **B**: Good morning! It's sunny and warm. Perfect for a walk.
+*   **A**: That's great! Yesterday it was so cloudy.
+---
+*   **A**: ¡Buenos días! ¿Qué tiempo hace hoy?
+*   **B**: ¡Buenos días! Está soleado y cálido. Perfecto para un paseo.
+*   **A**: ¡Genial! Ayer estaba tan nublado.
+
+### Example 2: Making Plans
+*   **A**: Do you want to go to the park this afternoon?
+*   **B**: I don't know. The sky looks a bit cloudy. Is it going to rain?
+*   **A**: The forecast says it will be partly cloudy, but no rain.
+*   **B**: Okay, let's go then! I love the park in the spring.
+---
+*   **A**: ¿Quieres ir al parque esta tarde?
+*   **B**: No sé. El cielo se ve un poco nublado. ¿Va a llover?
+*   **A**: El pronóstico dice que estará parcialmente nublado, pero sin lluvia.
+*   **B**: ¡Vale, vamos entonces! Me encanta el parque en primavera.
+
+### Example 3: Describing Seasons
+*   **A**: What's your favorite season?
+*   **B**: I love summer! I enjoy the hot and sunny days, and going to the beach.
+*   **A**: Really? I prefer winter. I like the cold weather and the snow.
+---
+*   **A**: ¿Cuál es tu estación favorita?
+*   **B**: ¡Me encanta el verano! Disfruto los días calurosos y soleados, y ir a la playa.
+*   **A**: ¿En serio? Yo prefiero el invierno. Me gusta el frío y la nieve.
+
+## Common Mistakes (Errores comunes)
+
+### Mistake 1: Not using "It is/It's"
+*   ❌ *Sunny today.*
+*   ✅ *It's sunny today.*
+
+### Mistake 2: Confusing "hot" and "warm", "cold" and "cool"
+*   **Hot** is very high temperature, sometimes uncomfortable.
+*   **Warm** is pleasantly high temperature.
+*   **Cold** is low temperature, sometimes uncomfortable.
+*   **Cool** is pleasantly low temperature, a bit chilly.
+
+### Mistake 3: Saying "do" the weather
+*   ❌ *What weather does it do?*
+*   ✅ *What's the weather like?* or *How's the weather?*
+
+### Mistake 4: Using "make" for weather
+*   ❌ *The weather makes sunny.*
+*   ✅ *It's sunny.*
 
 ## Practice Exercises
 
-### Exercise 1: What do you wear? (Match the weather with the clothes)
-1. It is very cold.      a) T-shirt and shorts.
-2. It is sunny and hot.  b) Jacket and boots.
-3. It is rainy.          c) Umbrella and raincoat.
+### Exercise 1: Match the Weather with the Description
+Match each weather condition with its typical description:
 
-### Exercise 2: Describe today's weather
-Write two sentences about the weather today.
-1. ________________________________________
-2. ________________________________________`
+1. Sunny ____          a) Lots of wind.
+2. Rainy ____          b) Very low temperature, ice.
+3. Windy ____          c) Clear sky, sun shining.
+4. Snowy ____          d) Rain falling.
+5. Freezing ____       e) Snow falling.
+
+### Exercise 2: What Season is it?
+Write the season associated with each description:
+
+1. Flowers bloom, mild temperatures, some rain. ____
+2. Hot and sunny days, ideal for the beach. ____
+3. Cold, often snowy, short days, holidays. ____
+4. Leaves fall from trees, cool and windy. ____
+
+### Exercise 3: Complete with "It's" and the correct weather word
+Complete the sentences describing the weather:
+
+1. __________ __________ today. The sun is shining brightly!
+2. __________ __________ cold. I need a warm coat.
+3. __________ __________ raining outside. Don't forget your umbrella!
+4. __________ __________ very windy. The trees are moving a lot.
+5. __________ __________ 10 degrees Celsius. __________ __________ cool.
+
+### Exercise 4: Ask Questions About the Weather
+Form a question for each answer:
+
+1. Q: ________________________________________?
+   A: It's 20 degrees Celsius.
+2. Q: ________________________________________?
+   A: Yes, it's very hot today.
+3. Q: ________________________________________?
+   A: No, it's not snowing.
+4. Q: ________________________________________?
+   A: The weather is cloudy and windy.
+
+### Exercise 5: Translate to English
+Translate these phrases to English:
+
+1. ¿Qué tiempo hace hoy? → ________________________________________
+2. Está nevando. → ________________________________________
+3. Hace mucho frío en invierno. → ________________________________________
+4. Me encanta el verano porque hace calor y está soleado. → ________________________________________
+5. ¿Va a llover mañana? → ________________________________________
+6. El viento sopla muy fuerte. → ________________________________________
+
+### Exercise 6: Correct the Mistakes
+Find and correct the mistake in each sentence:
+
+1. Sunny today.
+2. It's much cold outside.
+3. What weather does it do?
+4. I prefer the weather makes warm.
+5. In winter, it's always hot.
+
+### Exercise 7: Describe your favorite season
+Write 3-4 sentences describing your favorite season. Include typical weather, activities, and clothing.
+
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+
+### Exercise 8: Fill in the Blanks (Dialogue)
+Complete the conversation about the weather:
+
+**A**: Hi John! __________ __________ the weather like?
+**B**: Hi Maria! __________ __________ raining. It's a typical __________ day.
+**A**: Oh, no! I hate __________ weather.
+**B**: Me too. I prefer __________ days, like in ___________.
+**A**: Yes, me too!
+**B**: Is __________ __________ to rain tomorrow?
+**A**: I hope not!
+
+### Exercise 9: Weather and Activities
+Match the weather with the best activity:
+
+1. Sunny and hot ____             a) Go skiing
+2. Cold and snowy ____             b) Stay indoors, read a book
+3. Rainy and windy ____            c) Go to the beach
+4. Mild and fresh ____             d) Go for a walk in the park
+
+### Exercise 10: Complete the Chart
+Fill in the missing information for each season:
+
+| Season  | Typical Weather          | Clothing                 | Activities               |
+| :------ | :----------------------- | :----------------------- | :----------------------- |
+| Spring  | Mild, sometimes rainy    | Light jackets, sweaters  | Planting                 |
+| Summer  | Hot, sunny               | T-shirts, shorts         | ________________________ |
+| Autumn  | Cool, windy, sometimes rainy | ________________________ | Enjoying fall foliage    |
+| Winter  | ________________________ | Heavy coats, hats, gloves | Skiing, staying indoors  |
+
+### Exercise 11: Write a Weather Report
+Imagine you are a weather reporter. Write a short weather report for your city for today and tomorrow (3-5 sentences).
+
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+________________________________________
+
+### Exercise 12: True or False (Weather Facts)
+Mark T (True) or F (False) for these statements:
+
+1. Winter is usually the hottest season. ____
+2. You need an umbrella on a rainy day. ____
+3. Snow falls in summer. ____
+4. Spring is when flowers start to grow. ____
+5. It's common to go swimming in freezing weather. ____
+
+---
+*End of Module 5*`
             }
         ]
     }
