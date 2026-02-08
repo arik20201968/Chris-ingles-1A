@@ -54,6 +54,112 @@ Numbers are useful for many things: ages, prices, phone numbers, and of course, 
 *   100: One hundred (not "a hundred" in formal writing)
 *   Use "and" in British English: 101 = One hundred and one
 
+## Ordinal Numbers (1st-100th)
+Ordinal numbers tell us the order of things (first, second, third, etc.).
+
+### Basic Ordinal Numbers (1st-10th)
+*   1st: First
+*   2nd: Second
+*   3rd: Third
+*   4th: Fourth
+*   5th: Fifth
+*   6th: Sixth
+*   7th: Seventh
+*   8th: Eighth
+*   9th: Ninth (notice the 'e' is dropped)
+*   10th: Tenth
+
+### Ordinal Numbers (11th-20th)
+*   11th: Eleventh
+*   12th: Twelfth (notice the 've' changes to 'f')
+*   13th: Thirteenth
+*   14th: Fourteenth
+*   15th: Fifteenth
+*   16th: Sixteenth
+*   17th: Seventeenth
+*   18th: Eighteenth
+*   19th: Nineteenth
+*   20th: Twentieth (notice the 'y' changes to 'ie')
+
+### Ordinal Numbers for Tens (20th, 30th, etc.)
+When the cardinal number ends in 'y', we change the 'y' to 'ie' and add 'th'.
+*   20: Twenty -> 20th: Twentieth
+*   30: Thirty -> 30th: Thirtieth
+*   40: Forty -> 40th: Fortieth
+*   50: Fifty -> 50th: Fiftieth
+*   60: Sixty -> 60th: Sixtieth
+*   70: Seventy -> 70th: Seventieth
+*   80: Eighty -> 80th: Eightieth
+*   90: Ninety -> 90th: Ninetieth
+*   100: One hundred -> 100th: One hundredth
+
+### Examples of Compound Ordinal Numbers (21st-99th)
+For numbers ending in 1, 2, or 3 (except 11, 12, 13), the last digit determines the ordinal ending (st, nd, rd). For all others, use 'th'.
+*   21st: Twenty-first
+*   22nd: Twenty-second
+*   23rd: Twenty-third
+*   24th: Twenty-fourth
+*   31st: Thirty-first
+*   42nd: Forty-second
+*   53rd: Fifty-third
+*   65th: Sixty-fifth
+*   78th: Seventy-eighth
+*   99th: Ninety-ninth
+
+### Important Rules for Ordinal Numbers
+*   Most ordinal numbers end in 'th'.
+*   Exceptions are 1st, 2nd, 3rd (and their compounds like 21st, 32nd, 43rd).
+*   Numbers ending in 'y' change to 'ieth' (e.g., twenty -> twentieth).
+*   For compound numbers (e.g., 21-99), only the last number becomes ordinal.
+
+### Using Ordinal Numbers in Real Life
+
+#### Dates (Fechas)
+*   **Today is January 1st.** (January first)
+*   **My birthday is on May 2nd.** (May second)
+*   **The meeting is on the 15th of March.** (the fifteenth of March)
+
+#### Order/Sequence (Orden/Secuencia)
+*   **He is the first person in line.**
+*   **She won second place.**
+*   **This is my third coffee today.**
+
+#### Centuries (Siglos)
+*   **The 21st century.** (the twenty-first century)
+*   **The 19th century.** (the nineteenth century)
+
+## Practice Exercises - Ordinal Numbers
+
+### Exercise O1: Write the ordinal numbers
+1. 1 -> ____________________
+2. 3 -> ____________________
+3. 5 -> ____________________
+4. 12 -> ____________________
+5. 20 -> ____________________
+6. 21 -> ____________________
+7. 33 -> ____________________
+8. 45 -> ____________________
+9. 72 -> ____________________
+10. 100 -> ____________________
+
+### Exercise O2: Complete the sentences
+1. Today is the _______________ day of the month. (1)
+2. She finished in _______________ place. (2)
+3. This is my _______________ time visiting London. (3)
+4. The concert is on the _______________ of July. (4)
+5. He lives on the _______________ floor. (10)
+
+### Exercise O3: Match the cardinal to the ordinal
+Match each cardinal number with its correct ordinal form.
+*   Cardinal     Ordinal
+    *   1           a) Fourth
+    *   2           b) Fifth
+    *   3           c) First
+    *   4           d) Second
+    *   5           e) Third
+
+Answers: 1-____, 2-____, 3-____, 4-____, 5-____
+
 ## Using Numbers in Real Life
 
 ### Ages (Edades)
