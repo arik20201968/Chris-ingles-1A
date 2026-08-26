@@ -1,3 +1,31 @@
+/* ============================================
+   CURSO INTERACTIVO DE INGLÉS — BOLDER DESIGN
+   Paleta: #667eea → #764ba2 (acento), #4CAF50 (éxito)
+   Sistema amplificado: misma identidad, más convicción
+   ============================================ */
+
+:root {
+    --accent-1: #667eea;
+    --accent-2: #764ba2;
+    --accent-gradient: linear-gradient(135deg, var(--accent-1) 0%, var(--accent-2) 100%);
+    --success: #4CAF50;
+    --success-2: #8BC34A;
+    --success-gradient: linear-gradient(90deg, var(--success) 0%, var(--success-2) 100%);
+    --bg: #f0f2f5;
+    --surface: #ffffff;
+    --text-primary: #1a1a2e;
+    --text-secondary: #4a4a6a;
+    --text-muted: #8888a8;
+    --border: #e2e4f0;
+    --shadow-sm: 0 2px 8px rgba(102, 126, 234, 0.08);
+    --shadow-md: 0 8px 30px rgba(102, 126, 234, 0.12);
+    --shadow-lg: 0 20px 60px rgba(102, 126, 234, 0.15);
+    --radius-sm: 10px;
+    --radius-md: 16px;
+    --radius-lg: 24px;
+    --font: 'Segoe UI', system-ui, -apple-system, sans-serif;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -5,54 +33,85 @@
 }
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    font-family: var(--font);
+    background: var(--bg);
+    background-image: 
+        radial-gradient(ellipse at 20% 50%, rgba(102, 126, 234, 0.03) 0%, transparent 50%),
+        radial-gradient(ellipse at 80% 20%, rgba(118, 75, 162, 0.03) 0%, transparent 50%);
     min-height: 100vh;
-    padding: 20px;
+    padding: 24px;
+    color: var(--text-primary);
+    line-height: 1.6;
 }
 
 .container {
-    max-width: 1400px;
+    max-width: 1440px;
     margin: 0 auto;
-    background: white;
-    border-radius: 20px;
-    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+    background: var(--surface);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-lg);
+    overflow: hidden;
+    border: 1px solid rgba(102, 126, 234, 0.08);
+}
+
+/* ============================================
+   HEADER — Más impacto visual
+   ============================================ */
+
+header {
+    background: var(--accent-gradient);
+    color: white;
+    padding: 48px 40px 40px;
+    text-align: center;
+    position: relative;
     overflow: hidden;
 }
 
-header {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
-    padding: 35px;
-    text-align: center;
-    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+header::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, rgba(255,255,255,0.06) 0%, transparent 60%);
+    pointer-events: none;
 }
 
 header h1 {
-    font-size: 2.8em;
-    margin-bottom: 25px;
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
-    letter-spacing: 1px;
+    font-size: 3.2em;
+    font-weight: 700;
+    margin-bottom: 32px;
+    letter-spacing: -0.5px;
+    position: relative;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.15);
 }
+
+/* ============================================
+   BARRA DE PROGRESO — Más prominente
+   ============================================ */
 
 .progress-bar {
     width: 100%;
-    height: 25px;
+    max-width: 600px;
+    margin: 0 auto 16px;
+    height: 12px;
     background: rgba(255,255,255,0.2);
-    border-radius: 15px;
+    border-radius: 20px;
     overflow: hidden;
-    margin-bottom: 12px;
-    box-shadow: inset 0 2px 5px rgba(0,0,0,0.1);
+    position: relative;
+    backdrop-filter: blur(4px);
 }
 
 .progress-fill {
     height: 100%;
-    background: linear-gradient(90deg, #4CAF50 0%, #8BC34A 100%);
-    transition: width 0.5s ease;
+    background: var(--success-gradient);
+    transition: transform 0.8s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.6s;
     width: 0%;
-    box-shadow: 0 2px 10px rgba(76, 175, 80, 0.5);
+    border-radius: 20px;
     position: relative;
     overflow: hidden;
+    box-shadow: 0 0 20px rgba(76, 175, 80, 0.4);
 }
 
 .progress-fill::after {
@@ -65,10 +124,10 @@ header h1 {
     background: linear-gradient(
         90deg,
         transparent,
-        rgba(255,255,255,0.3),
+        rgba(255,255,255,0.4),
         transparent
     );
-    animation: shimmer 2s infinite;
+    animation: shimmer 2.5s infinite;
 }
 
 @keyframes shimmer {
@@ -77,97 +136,134 @@ header h1 {
 }
 
 .progress-text {
-    font-size: 1.2em;
+    font-size: 1em;
     font-weight: 600;
-    text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+    opacity: 0.95;
+    position: relative;
+    letter-spacing: 0.5px;
 }
+
+/* ============================================
+   LAYOUT PRINCIPAL
+   ============================================ */
 
 .main-content {
     display: flex;
-    min-height: 600px;
+    min-height: 650px;
 }
 
 .sidebar {
-    width: 300px;
-    background: linear-gradient(180deg, #f8f9fa 0%, #e9ecef 100%);
-    padding: 30px 20px;
-    border-right: 2px solid #e0e0e0;
+    width: 320px;
+    background: linear-gradient(180deg, #fafbff 0%, #f0f2fa 100%);
+    padding: 32px 24px;
+    border-right: 1px solid var(--border);
     overflow-y: auto;
-    max-height: calc(100vh - 200px);
+    max-height: calc(100vh - 220px);
 }
 
 .sidebar h2 {
-    color: #667eea;
-    margin-bottom: 25px;
-    font-size: 1.6em;
-    text-align: center;
-    padding-bottom: 15px;
-    border-bottom: 3px solid #667eea;
+    color: var(--accent-1);
+    font-size: 1.4em;
+    font-weight: 700;
+    margin-bottom: 24px;
+    padding-bottom: 12px;
+    border-bottom: 3px solid var(--accent-1);
+    letter-spacing: -0.3px;
 }
 
+/* ============================================
+   MÓDULOS EN SIDEBAR — Más distintivos
+   ============================================ */
+
 .module {
-    margin-bottom: 20px;
+    margin-bottom: 16px;
 }
 
 .module-title {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: var(--accent-gradient);
     color: white;
-    padding: 14px 18px;
-    border-radius: 10px;
+    padding: 16px 20px;
+    border-radius: var(--radius-sm);
     cursor: pointer;
     font-weight: 600;
-    transition: all 0.3s;
+    font-size: 0.95em;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     display: flex;
     justify-content: space-between;
     align-items: center;
-    box-shadow: 0 3px 10px rgba(102, 126, 234, 0.2);
+    box-shadow: var(--shadow-sm);
+    position: relative;
+    overflow: hidden;
+}
+
+.module-title::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.15), transparent);
+    transition: left 0.5s;
+}
+
+.module-title:hover::before {
+    left: 100%;
 }
 
 .module-title:hover {
-    background: linear-gradient(135deg, #5568d3 0%, #6a3d8f 100%);
-    transform: translateX(5px);
-    box-shadow: 0 5px 15px rgba(102, 126, 234, 0.3);
+    transform: translateX(6px);
+    box-shadow: var(--shadow-md);
 }
 
 .module-title.completed {
-    background: linear-gradient(135deg, #4CAF50 0%, #45a049 100%);
+    background: var(--success-gradient);
+}
+
+.module-title.completed::after {
+    content: '✓';
+    font-size: 1.1em;
 }
 
 .lesson-list {
-    margin-top: 10px;
-    padding-left: 10px;
+    margin-top: 8px;
+    padding-left: 4px;
 }
 
 .lesson-item {
-    padding: 12px 15px;
-    margin: 8px 0;
+    padding: 14px 18px;
+    margin: 6px 0;
     background: white;
-    border-radius: 8px;
+    border-radius: var(--radius-sm);
     cursor: pointer;
-    transition: all 0.3s;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
     border-left: 3px solid transparent;
-    font-size: 0.95em;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    font-size: 0.9em;
+    color: var(--text-secondary);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+    position: relative;
 }
 
 .lesson-item:hover {
-    background: #e3f2fd;
-    border-left-color: #667eea;
-    transform: translateX(8px);
-    box-shadow: 0 3px 10px rgba(102, 126, 234, 0.15);
+    background: #f0f4ff;
+    border-left-color: var(--accent-1);
+    transform: translateX(6px);
+    box-shadow: var(--shadow-sm);
+    color: var(--text-primary);
 }
 
 .lesson-item.active {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: var(--accent-gradient);
     color: white;
     font-weight: 600;
     border-left-color: #ffc107;
-    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+    box-shadow: var(--shadow-md);
+    transform: translateX(4px);
 }
 
 .lesson-item.completed::after {
     content: " ✓";
-    color: #4CAF50;
+    color: var(--success);
     font-weight: bold;
     font-size: 1.1em;
 }
@@ -176,112 +272,149 @@ header h1 {
     color: #ffc107;
 }
 
+/* ============================================
+   CONTENIDO DE LECCIÓN
+   ============================================ */
+
 .lesson-content {
     flex: 1;
-    padding: 40px;
+    padding: 48px 56px;
     overflow-y: auto;
-    max-height: calc(100vh - 200px);
+    max-height: calc(100vh - 220px);
 }
 
 .welcome {
     text-align: center;
-    padding: 20px;
+    padding: 20px 0;
 }
 
 .welcome h2 {
-    color: #667eea;
+    color: var(--accent-1);
     font-size: 2.8em;
-    margin-bottom: 20px;
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+    font-weight: 700;
+    margin-bottom: 16px;
+    letter-spacing: -0.5px;
 }
 
 .welcome > p {
-    font-size: 1.3em;
-    color: #666;
-    margin-bottom: 40px;
-    max-width: 700px;
+    font-size: 1.25em;
+    color: var(--text-secondary);
+    margin-bottom: 48px;
+    max-width: 600px;
     margin-left: auto;
     margin-right: auto;
+    line-height: 1.7;
 }
+
+/* ============================================
+   CARDS DE MÓDULOS — Más personalidad
+   ============================================ */
 
 .module-overview {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 25px;
-    margin: 50px 0;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 24px;
+    margin: 48px 0;
 }
 
 .module-card {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: var(--accent-gradient);
     color: white;
-    padding: 30px;
-    border-radius: 20px;
-    box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);
-    transition: all 0.4s;
+    padding: 32px 28px;
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-md);
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
     cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+
+.module-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(135deg, rgba(255,255,255,0.1) 0%, transparent 50%);
+    pointer-events: none;
 }
 
 .module-card:hover {
-    transform: translateY(-10px) scale(1.02);
-    box-shadow: 0 12px 35px rgba(102, 126, 234, 0.4);
+    transform: translateY(-8px) scale(1.02);
+    box-shadow: 0 16px 48px rgba(102, 126, 234, 0.35);
 }
 
 .module-card h3 {
-    margin-bottom: 15px;
-    font-size: 1.4em;
+    margin-bottom: 12px;
+    font-size: 1.3em;
+    font-weight: 700;
     border-bottom: 2px solid rgba(255,255,255,0.3);
-    padding-bottom: 10px;
+    padding-bottom: 12px;
+    position: relative;
 }
 
 .module-card p {
-    font-size: 1em;
-    line-height: 1.6;
-    opacity: 0.95;
+    font-size: 0.95em;
+    line-height: 1.7;
+    opacity: 0.92;
+    position: relative;
 }
 
+/* ============================================
+   LECCIÓN — Tipografía más fuerte
+   ============================================ */
+
 .lesson {
-    animation: fadeIn 0.5s;
+    animation: fadeIn 0.5s ease-out;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: translateY(0); }
 }
 
 .hidden {
     display: none;
 }
 
-@keyframes fadeIn {
-    from { opacity: 0; transform: translateY(20px); }
-    to { opacity: 1; transform: translateY(0); }
-}
-
 .lesson-header {
     display: flex;
     align-items: center;
-    gap: 20px;
-    margin-bottom: 30px;
+    gap: 24px;
+    margin-bottom: 36px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid var(--border);
 }
 
 .lesson-header h2 {
-    color: #667eea;
-    font-size: 2em;
+    color: var(--accent-1);
+    font-size: 2.2em;
+    font-weight: 700;
+    letter-spacing: -0.3px;
 }
 
 .lesson-body {
-    line-height: 1.8;
-    color: #333;
+    line-height: 1.85;
+    color: var(--text-primary);
     font-size: 1.05em;
 }
 
 .lesson-body h2 {
-    color: #667eea;
-    margin: 35px 0 20px 0;
-    font-size: 1.9em;
-    padding-bottom: 10px;
-    border-bottom: 3px solid #e3f2fd;
+    color: var(--accent-1);
+    margin: 40px 0 20px 0;
+    font-size: 1.8em;
+    font-weight: 700;
+    padding-bottom: 12px;
+    border-bottom: 3px solid #e8ecf8;
+    letter-spacing: -0.3px;
 }
 
 .lesson-body h3 {
-    color: #764ba2;
-    margin: 25px 0 15px 0;
-    font-size: 1.5em;
+    color: var(--accent-2);
+    margin: 28px 0 16px 0;
+    font-size: 1.4em;
+    font-weight: 600;
 }
 
 .lesson-body ul, .lesson-body ol {
@@ -291,73 +424,72 @@ header h1 {
 
 .lesson-body ul li, .lesson-body ol li {
     margin: 10px 0;
-    padding-left: 10px;
+    padding-left: 8px;
 }
 
 .lesson-body ul li {
     list-style-type: none;
     position: relative;
-    padding-left: 25px;
+    padding-left: 24px;
 }
 
 .lesson-body ul li::before {
     content: "▸";
-    color: #667eea;
+    color: var(--accent-1);
     font-weight: bold;
     position: absolute;
     left: 0;
+    font-size: 1.1em;
 }
 
 .lesson-body ol li {
-    padding: 8px 12px;
+    padding: 10px 14px;
     margin: 8px 0;
-    background: #f8f9fa;
-    border-radius: 6px;
-    border-left: 3px solid #667eea;
+    background: #f8f9ff;
+    border-radius: 8px;
+    box-shadow: -3px 0 0 var(--accent-1), 0 2px 6px rgba(0,0,0,0.04);
 }
 
 .lesson-body p {
-    margin: 15px 0;
+    margin: 16px 0;
     line-height: 1.9;
 }
 
 .lesson-body strong {
-    color: #667eea;
-    font-weight: 600;
+    color: var(--accent-1);
+    font-weight: 700;
 }
 
 .lesson-body em {
-    color: #764ba2;
+    color: var(--accent-2);
     font-style: italic;
 }
 
-/* Estilos para bloques de código o ejemplos */
 .lesson-body code {
     background: #f5f5f5;
-    padding: 2px 6px;
-    border-radius: 4px;
+    padding: 3px 8px;
+    border-radius: 6px;
     font-family: 'Courier New', monospace;
     color: #d63384;
+    font-size: 0.9em;
 }
 
-/* Estilos para notas importantes */
 .lesson-body blockquote {
-    border-left: 4px solid #ffc107;
-    background: #fff9e6;
-    padding: 15px 20px;
-    margin: 20px 0;
-    border-radius: 8px;
+    box-shadow: -4px 0 0 #ffc107, var(--shadow-sm);
+    background: linear-gradient(135deg, #fffdf5 0%, #fff9e6 100%);
+    padding: 18px 24px;
+    margin: 24px 0;
+    border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
     font-style: italic;
+    box-shadow: var(--shadow-sm);
 }
 
-/* Separadores visuales */
 .lesson-body hr {
     border: none;
-    border-top: 2px dashed #e0e0e0;
-    margin: 30px 0;
+    border-top: 2px dashed var(--border);
+    margin: 36px 0;
 }
 
-/* Scroll suave */
 .lesson-content {
     scroll-behavior: smooth;
 }
@@ -366,7 +498,7 @@ header h1 {
 @keyframes slideInRight {
     from {
         opacity: 0;
-        transform: translateX(30px);
+        transform: translateX(24px);
     }
     to {
         opacity: 1;
@@ -375,37 +507,36 @@ header h1 {
 }
 
 .lesson-body > * {
-    animation: slideInRight 0.5s ease-out;
+    animation: slideInRight 0.4s ease-out;
 }
 
-/* Efecto de hover en enlaces si los hay */
 .lesson-body a {
-    color: #667eea;
+    color: var(--accent-1);
     text-decoration: none;
     border-bottom: 2px solid transparent;
-    transition: all 0.3s;
+    transition: all 0.25s;
+    font-weight: 500;
 }
 
 .lesson-body a:hover {
-    border-bottom-color: #667eea;
-    color: #764ba2;
+    border-bottom-color: var(--accent-1);
+    color: var(--accent-2);
 }
 
 /* Scrollbar personalizado */
 .sidebar::-webkit-scrollbar,
 .lesson-content::-webkit-scrollbar {
-    width: 8px;
+    width: 6px;
 }
 
 .sidebar::-webkit-scrollbar-track,
 .lesson-content::-webkit-scrollbar-track {
-    background: #f1f1f1;
-    border-radius: 10px;
+    background: transparent;
 }
 
 .sidebar::-webkit-scrollbar-thumb,
 .lesson-content::-webkit-scrollbar-thumb {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, var(--accent-1) 0%, var(--accent-2) 100%);
     border-radius: 10px;
 }
 
@@ -414,27 +545,29 @@ header h1 {
     background: linear-gradient(135deg, #5568d3 0%, #6a3d8f 100%);
 }
 
+/* Tablas */
 .lesson-body table {
     width: 100%;
     border-collapse: collapse;
-    margin: 25px 0;
-    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
-    border-radius: 10px;
+    margin: 28px 0;
+    box-shadow: var(--shadow-sm);
+    border-radius: var(--radius-sm);
     overflow: hidden;
+    font-size: 0.95em;
 }
 
 .lesson-body th, .lesson-body td {
-    padding: 15px 20px;
+    padding: 14px 18px;
     text-align: left;
-    border-bottom: 1px solid #e0e0e0;
+    border-bottom: 1px solid var(--border);
 }
 
 .lesson-body th {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: var(--accent-gradient);
     color: white;
     font-weight: 600;
     text-transform: uppercase;
-    font-size: 0.9em;
+    font-size: 0.85em;
     letter-spacing: 0.5px;
 }
 
@@ -443,28 +576,27 @@ header h1 {
 }
 
 .lesson-body tr:hover td {
-    background: #f8f9ff;
-    transform: scale(1.01);
-    transition: all 0.3s;
+    background: #f4f6ff;
+    transition: background 0.2s;
 }
 
 .lesson-body tr:last-child td {
     border-bottom: none;
 }
 
+/* Ejercicios */
 .exercise {
-    background: linear-gradient(135deg, #f0f4ff 0%, #fef4ff 100%);
-    padding: 25px;
-    border-radius: 15px;
-    margin: 25px 0;
-    border-left: 5px solid #667eea;
-    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.1);
+    background: linear-gradient(135deg, #f4f6ff 0%, #fef4ff 100%);
+    padding: 28px;
+    border-radius: var(--radius-md);
+    box-shadow: -5px 0 0 var(--accent-1), var(--shadow-sm);
 }
 
 .exercise h3 {
-    color: #667eea;
+    color: var(--accent-1);
     margin-bottom: 20px;
     font-size: 1.3em;
+    font-weight: 700;
     display: flex;
     align-items: center;
     gap: 10px;
@@ -476,32 +608,31 @@ header h1 {
 }
 
 .exercise ol, .exercise ul {
-    margin: 15px 0;
+    margin: 16px 0;
     padding-left: 0;
     list-style: none;
     counter-reset: exercise-counter;
 }
 
 .exercise ol li {
-    margin: 12px 0;
-    padding: 15px 20px;
+    margin: 10px 0;
+    padding: 16px 20px 16px 52px;
     background: white;
-    border-radius: 10px;
+    border-radius: var(--radius-sm);
     line-height: 1.8;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
-    transition: all 0.3s;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    transition: all 0.25s;
     counter-increment: exercise-counter;
     position: relative;
-    padding-left: 50px;
 }
 
 .exercise ol li::before {
     content: counter(exercise-counter);
     position: absolute;
-    left: 15px;
+    left: 16px;
     top: 50%;
     transform: translateY(-50%);
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: var(--accent-gradient);
     color: white;
     width: 28px;
     height: 28px;
@@ -510,18 +641,17 @@ header h1 {
     align-items: center;
     justify-content: center;
     font-weight: bold;
-    font-size: 0.9em;
+    font-size: 0.85em;
 }
 
 .exercise ul li {
-    margin: 12px 0;
-    padding: 15px 20px;
+    margin: 10px 0;
+    padding: 16px 20px 16px 48px;
     background: white;
-    border-radius: 10px;
+    border-radius: var(--radius-sm);
     line-height: 1.8;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
-    transition: all 0.3s;
-    padding-left: 50px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    transition: all 0.25s;
     position: relative;
 }
 
@@ -531,14 +661,14 @@ header h1 {
     left: 20px;
     top: 50%;
     transform: translateY(-50%);
-    color: #667eea;
-    font-size: 1.5em;
+    color: var(--accent-1);
+    font-size: 1.4em;
     font-weight: bold;
 }
 
 .exercise li:hover {
-    transform: translateX(5px);
-    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.2);
+    transform: translateX(4px);
+    box-shadow: var(--shadow-sm);
 }
 
 .exercise p {
@@ -547,70 +677,122 @@ header h1 {
 }
 
 .exercise strong {
-    color: #764ba2;
+    color: var(--accent-2);
 }
+
+/* ============================================
+   BOTONES — Más táctiles y satisfactorios
+   ============================================ */
 
 .lesson-navigation {
     display: flex;
     justify-content: space-between;
-    margin-top: 40px;
-    padding-top: 20px;
-    border-top: 2px solid #e0e0e0;
+    margin-top: 48px;
+    padding-top: 24px;
+    border-top: 2px solid var(--border);
 }
 
 .btn-primary, .btn-secondary, .btn-back {
-    padding: 14px 35px;
+    padding: 14px 36px;
     border: none;
-    border-radius: 10px;
-    font-size: 1.05em;
+    border-radius: var(--radius-sm);
+    font-size: 1em;
     cursor: pointer;
-    transition: all 0.3s;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     font-weight: 600;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.3px;
+    position: relative;
+    overflow: hidden;
 }
 
 .btn-primary {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: var(--accent-gradient);
     color: white;
-    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+    box-shadow: 0 4px 16px rgba(102, 126, 234, 0.3);
+}
+
+.btn-primary::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    background: rgba(255,255,255,0.2);
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    transition: transform 0.6s, opacity 0.6s;
+}
+
+.btn-primary:hover::before {
+    width: 300px;
+    height: 300px;
 }
 
 .btn-primary:hover {
     transform: translateY(-3px);
-    box-shadow: 0 6px 20px rgba(102, 126, 234, 0.5);
+    box-shadow: 0 8px 28px rgba(102, 126, 234, 0.45);
 }
 
 .btn-primary:active {
     transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
 }
 
 .btn-secondary {
-    background: #e0e0e0;
-    color: #333;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    background: #e8eaf0;
+    color: var(--text-primary);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
 }
 
 .btn-secondary:hover {
-    background: #d0d0d0;
+    background: #dde0e8;
     transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    box-shadow: 0 4px 14px rgba(0,0,0,0.1);
+}
+
+.btn-secondary:active {
+    transform: translateY(0);
 }
 
 .btn-back {
     background: white;
-    color: #667eea;
-    border: 2px solid #667eea;
-    box-shadow: 0 2px 8px rgba(102, 126, 234, 0.2);
+    color: var(--accent-1);
+    box-shadow: -3px 0 0 var(--accent-1), 0 2px 8px rgba(102, 126, 234, 0.12);
 }
 
 .btn-back:hover {
-    background: #667eea;
+    background: var(--accent-1);
     color: white;
-    transform: translateX(-3px);
-    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+    transform: translateX(-4px);
+    box-shadow: 0 4px 16px rgba(102, 126, 234, 0.3);
 }
 
+.btn-back:active {
+    transform: translateX(-2px);
+}
+
+/* ============================================
+   RESPONSIVE
+   ============================================ */
+
 @media (max-width: 768px) {
+    body {
+        padding: 12px;
+    }
+    
+    .container {
+        border-radius: var(--radius-md);
+    }
+    
+    header {
+        padding: 32px 24px 28px;
+    }
+    
+    header h1 {
+        font-size: 2em;
+    }
+    
     .main-content {
         flex-direction: column;
     }
@@ -618,14 +800,53 @@ header h1 {
     .sidebar {
         width: 100%;
         border-right: none;
-        border-bottom: 2px solid #e0e0e0;
+        border-bottom: 1px solid var(--border);
+        max-height: 300px;
+        padding: 24px 20px;
     }
     
     .lesson-content {
-        padding: 20px;
+        padding: 28px 20px;
+        max-height: none;
+    }
+    
+    .welcome h2 {
+        font-size: 2em;
     }
     
     .module-overview {
         grid-template-columns: 1fr;
+        gap: 16px;
+    }
+    
+    .module-card {
+        padding: 24px 20px;
+    }
+    
+    .lesson-header h2 {
+        font-size: 1.6em;
+    }
+    
+    .lesson-body h2 {
+        font-size: 1.5em;
+    }
+    
+    .btn-primary, .btn-secondary, .btn-back {
+        padding: 12px 24px;
+        font-size: 0.95em;
+    }
+}
+
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 1.6em;
+    }
+    
+    .welcome h2 {
+        font-size: 1.6em;
+    }
+    
+    .lesson-content {
+        padding: 20px 16px;
     }
 }
