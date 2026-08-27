@@ -62,7 +62,7 @@ Common ways to say goodbye:
 *   **How are you doing?**: ¿Cómo te va?
 *   **I am fine / I am good**: Estoy bien.
 *   **I am very well**: Estoy muy bien.
-*   **Not bad**: No está mal.
+*   **Not bad**: Not bad.
 *   **So-so**: Más o menos.
 *   **Thank you / Thanks**: Gracias.
 *   **You're welcome**: De nada.
@@ -75,7 +75,7 @@ When someone asks "How are you?", you can say:
 *   **I'm fine, thank you**: Estoy bien, gracias.
 *   **I'm great!**: ¡Estoy genial!
 *   **I'm okay**: Estoy bien.
-*   **Not bad**: No está mal.
+*   **Not bad**: Not bad.
 *   **I'm tired**: Estoy cansado/a.
 
 Always add: **And you?** or **How about you?** (¿Y tú?)
@@ -220,7 +220,7 @@ Knowing the English alphabet is essential for spelling names, addresses, and new
 *   **Could you repeat that, please?**: ¿Podrías repetir eso, por favor?
 *   **Slowly, please**: Más despacio, por favor.
 *   **Can you spell it?**: ¿Puedes deletrearlo?
-*   **Letter by letter**: Letra por letra.
+*   **Letra por letra**: Letter by letter.
 
 ## Real-Life Spelling Situations
 
@@ -493,13 +493,13 @@ Answers: 1-____, 2-____, 3-____, 4-____, 5-____
 
 ### Ages (Edades)
 *   **How old are you?**: ¿Cuántos años tienes?
-*   **I am 25 years old**: Tengo 25 años.
-*   **She is 30**: Ella tiene 30.
+*   **I am 25 years old**: I am 25 years old.
+*   **She is 30**: She is 30.
 
 ### Prices (Precios)
-*   **How much is it?**: ¿Cuánto cuesta?
-*   **It's 15 dollars**: Son 15 dólares.
-*   **It costs 50 euros**: Cuesta 50 euros.
+*   **How much is it?**: How much is it?
+*   **It's 15 dollars**: It's 15 dollars.
+*   **It costs 50 euros**: It costs 50 euros.
 
 ### Phone Numbers (Números de teléfono)
 *   We say each number separately: 555-1234 = "five five five, one two three four"
@@ -534,12 +534,12 @@ In English, we usually ask: **"What time is it?"** or **"What's the time?"**
 *   9:00 PM -> Nine in the evening
 
 ### Time Expressions
-*   **In the morning**: Por la mañana (6 AM - 12 PM)
-*   **In the afternoon**: Por la tarde (12 PM - 6 PM)
-*   **In the evening**: Por la noche (6 PM - 9 PM)
-*   **At night**: De noche (9 PM - 6 AM)
-*   **At noon**: Al mediodía (12:00 PM)
-*   **At midnight**: A medianoche (12:00 AM)
+*   **In the morning**: In the morning (6 AM - 12 PM)
+*   **In the afternoon**: In the afternoon (12 PM - 6 PM)
+*   **In the evening**: In the evening (6 PM - 9 PM)
+*   **At night**: At night (9 PM - 6 AM)
+*   **At noon**: At noon (12:00 PM)
+*   **At midnight**: At midnight (12:00 AM)
 
 ## Real-Life Examples
 
@@ -675,54 +675,54 @@ In this lesson, we will learn how to identify everyday items and describe them u
 *   **Violet** (Violeta)
 
 ## More Colors and Shades
-*   **Light blue**: Azul claro
-*   **Dark blue**: Azul oscuro
-*   **Light green**: Verde claro
-*   **Dark green**: Verde oscuro
+*   **Light blue**: Light blue
+*   **Dark blue**: Dark blue
+*   **Light green**: Light green
+*   **Dark green**: Dark green
 *   **Beige**: Beige
-*   **Gold**: Dorado
-*   **Silver**: Plateado
+*   **Gold**: Gold
+*   **Silver**: Silver
 
 ## Common Objects in the Classroom
-*   **A book**: Un libro
-*   **A pen**: Un bolígrafo
-*   **A pencil**: Un lápiz
-*   **A notebook**: Un cuaderno
-*   **A desk**: Un escritorio
-*   **A chair**: Una silla
-*   **A table**: Una mesa
-*   **A bag**: Una bolsa / mochila
-*   **A ruler**: Una regla
-*   **An eraser**: Una goma de borrar
+*   **A book**: A book
+*   **A pen**: A pen
+*   **A pencil**: A pencil
+*   **A notebook**: A notebook
+*   **A desk**: A desk
+*   **A chair**: A chair
+*   **A table**: A table
+*   **A bag**: A bag
+*   **A ruler**: A ruler
+*   **An eraser**: An eraser
 
 ## Common Objects at Home
-*   **A phone**: Un teléfono
-*   **A computer**: Una computadora
-*   **A TV**: Un televisor
-*   **A lamp**: Una lámpara
-*   **A door**: Una puerta
-*   **A window**: Una ventana
-*   **A clock**: Un reloj
-*   **A mirror**: Un espejo
-*   **A key**: Una llave
-*   **A cup**: Una taza
+*   **A phone**: A phone
+*   **A computer**: A computer
+*   **A TV**: A TV
+*   **A lamp**: A lamp
+*   **A door**: A door
+*   **A window**: A window
+*   **A clock**: A clock
+*   **A mirror**: A mirror
+*   **A key**: A key
+*   **A cup**: A cup
 
 ## Common Objects - Clothes
 *   **A shirt**: Una camisa
-*   **A T-shirt**: Una camiseta
-*   **Pants**: Pantalones
-*   **Shoes**: Zapatos
-*   **A hat**: Un sombrero
-*   **A jacket**: Una chaqueta
+*   **A T-shirt**: A T-shirt
+*   **Pants**: Pants
+*   **Shoes**: Shoes
+*   **A hat**: A hat
+*   **A jacket**: A jacket
 
 ## More Objects and Colors
-*   **A yellow phone**: Un teléfono amarillo.
-*   **A black computer**: Una computadora negra.
-*   **A white table**: Una mesa blanca.
-*   **A pink pen**: Un bolígrafo rosa.
-*   **A red car**: Un carro rojo.
-*   **A blue shirt**: Una camisa azul.
-*   **Green shoes**: Zapatos verdes.
+*   **A yellow phone**: A yellow phone.
+*   **A black computer**: A black computer.
+*   **A white table**: A white table.
+*   **A pink pen**: A pink pen.
+*   **A red car**: A red car.
+*   **A blue shirt**: A blue shirt.
+*   **Green shoes**: Green shoes.
 
 ## Important Grammar Rules
 *   In English, adjectives (like colors) come **BEFORE** the noun:
@@ -737,7 +737,7 @@ In this lesson, we will learn how to identify everyday items and describe them u
 *   **What color is it?**: ¿De qué color es?
 *   **What color is your car?**: ¿De qué color es tu carro?
 *   **It's red**: Es rojo.
-*   **They are blue**: Son azules.
+*   **They are blue**: They are blue.
 
 ## Real-Life Examples
 
@@ -1518,14 +1518,14 @@ Example: *My phone is black. My sister's car is red.*
 To get information, we use **Question Words** (also called Wh- words).
 
 ## Common Question Words
-*   **Who** (Quién): Used for people. -> *Who is your teacher?*
-*   **What** (Qué): Used for things or actions. -> *What is this?*
-*   **Where** (Dónde): Used for places. -> *Where are you from?*
-*   **When** (Cuándo): Used for time. -> *When is your birthday?*
-*   **Why** (Por qué): Used for reasons. -> *Why are you here?*
-*   **How** (Cómo): Used for manner or state. -> *How are you?*
-*   **Which** (Cuál): Used for choices. -> *Which color do you like?*
-*   **Whose** (De quién): Used for possession. -> *Whose book is this?*
+*   **Who** (Quién): Used for people. -> Who is your teacher?
+*   **What** (Qué): Used for things or actions. -> What is this?
+*   **Where** (Dónde): Used for places. -> Where are you from?
+*   **When** (Cuándo): Used for time. -> When is your birthday?
+*   **Why** (Por qué): Used for reasons. -> Why are you here?
+*   **How** (Cómo): Used for manner or state. -> How are you?
+*   **Which** (Cuál): Used for choices. -> Which color do you like?
+*   **Whose** (De quién): Used for possession. -> Whose book is this?
 
 ## Detailed Explanation
 
@@ -1762,23 +1762,23 @@ Example: *Where do you live?*
 In this lesson, you will learn the words for different members of a family.
 
 ## Family Members
-*   **Parents**: Padres (en general)
-*   **Father**: Padre (Dad / Daddy)
-*   **Mother**: Madre (Mom / Mommy / Mum)
-*   **Son**: Hijo
-*   **Daughter**: Hija
-*   **Brother**: Hermano
-*   **Sister**: Hermana
-*   **Grandfather**: Abuelo (Grandpa)
-*   **Grandmother**: Abuela (Grandma / Granny)
-*   **Uncle**: Tío
-*   **Aunt**: Tía
-*   **Cousin**: Primo/Prima
-*   **Nephew**: Sobrino
-*   **Niece**: Sobrina
-*   **Grandchildren**: Nietos
-*   **Grandson**: Nieto
-*   **Granddaughter**: Nieta
+*   **Parents**: Parents
+*   **Father**: Father
+*   **Mother**: Mother
+*   **Son**: Son
+*   **Daughter**: Daughter
+*   **Brother**: Brother
+*   **Sister**: Sister
+*   **Grandfather**: Grandfather  (Grandpa)
+*   **Grandmother**: Grandmother (Grandma / Granny)
+*   **Uncle**: Uncle
+*   **Aunt**: Aunt
+*   **Cousin**: Cousin
+*   **Nephew**: Nephew*
+*   **Niece**: Niece
+*   **Grandchildren**: Grandchildren
+*   **Grandson**: Grandson
+*   **Granddaughter**: Granddaughter
 
 ## Extended Family (Familia extendida)
 *   **Father-in-law**: Suegro
@@ -1787,12 +1787,12 @@ In this lesson, you will learn the words for different members of a family.
 *   **Sister-in-law**: Cuñada
 *   **Son-in-law**: Yerno
 *   **Daughter-in-law**: Nuera
-*   **Stepfather**: Padrastro
-*   **Stepmother**: Madrastra
-*   **Stepbrother**: Hermanastro
-*   **Stepsister**: Hermanastra
-*   **Half-brother**: Medio hermano
-*   **Half-sister**: Media hermana
+*   **Stepfather**: Stepfather
+*   **Stepmother**: Stepmother
+*   **Stepbrother**: Stepbrother
+*   **Stepsister**: Stepsister
+*   **Half-brother**: Half-brother
+*   **Half-sister**: Half-sister
 
 ## Relationships
 *   **Husband**: Esposo
@@ -1801,34 +1801,34 @@ In this lesson, you will learn the words for different members of a family.
 *   **Girlfriend**: Novia
 *   **Fiancé**: Prometido (male)
 *   **Fiancée**: Prometida (female)
-*   **Partner**: Pareja
+*   **Partner**: Partner
 *   **Ex-husband**: Ex esposo
 *   **Ex-wife**: Ex esposa
 
 ## Marital Status (Estado civil)
-*   **Single**: Soltero/a
-*   **Married**: Casado/a
-*   **Divorced**: Divorciado/a
-*   **Widowed**: Viudo/a
-*   **Engaged**: Comprometido/a (to be married)
-*   **Separated**: Separado/a
+*   **Single**: Single
+*   **Married**: Married
+*   **Divorced**: Divorced
+*   **Widowed**: Widowed
+*   **Engaged**: Engaged (to be married)
+*   **Separated**: Separated
 
 ## Describing Family Members
-*   **Older**: Mayor
-*   **Younger**: Menor
-*   **Eldest**: El/la mayor (de todos)
-*   **Youngest**: El/la menor (de todos)
-*   **Only child**: Hijo/a único/a
-*   **Twins**: Gemelos/Mellizos
-*   **Triplets**: Trillizos
+*   **Older**: Older
+*   **Younger**: Younger
+*   **Eldest**: Eldest
+*   **Youngest**: Youngest
+*   **Only child**: Only child
+*   **Twins**: Twins
+*   **Triplets**: Triplets
 
 ## Important Phrases
-*   **How many brothers and sisters do you have?**: ¿Cuántos hermanos tienes?
-*   **I have one brother and two sisters**: Tengo un hermano y dos hermanas.
-*   **I'm an only child**: Soy hijo/a único/a.
-*   **I have a big family**: Tengo una familia grande.
-*   **I have a small family**: Tengo una familia pequeña.
-*   **My family is very close**: Mi familia es muy unida.
+*   **How many brothers and sisters do you have?**: How many brothers and sisters do you have?
+*   **I have one brother and two sisters**: I have one brother and two sisters.
+*   **I'm an only child**: I'm an only child
+*   **I have a big family**: I have a big family.
+*   **I have a small family**: I have a small family.
+*   **My family is very close**: My family is very close
 
 ## More Examples
 *   **My father** is 50 years old.
@@ -1964,94 +1964,94 @@ ________________________________________`
 Let's learn how to describe the place where you live and the things inside it. In this lesson, you will learn vocabulary about different types of homes, rooms, furniture, and how to describe where things are located.
 
 ## Types of Homes (Tipos de vivienda)
-*   **House**: Casa
-*   **Apartment**: Apartamento / Departamento
-*   **Studio**: Estudio
-*   **Flat**: Piso (UK)
-*   **Cottage**: Cabaña
-*   **Villa**: Villa / Chalet
-*   **Bungalow**: Bungaló
+*   **House**: House
+*   **Apartment**: Apartment
+*   **Studio**: Studio
+*   **Flat**: Flat (UK)
+*   **Cottage**: Cottage
+*   **Villa**: Villa
+*   **Bungalow**: Bungalow
 
-## Rooms in a House (Habitaciones de la casa)
-*   **Living room**: Sala de estar / Salón
-*   **Kitchen**: Cocina
-*   **Bedroom**: Dormitorio / Cuarto / Habitación
-*   **Bathroom**: Baño
-*   **Dining room**: Comedor
-*   **Garden**: Jardín
-*   **Garage**: Garaje
-*   **Balcony**: Balcón
-*   **Terrace**: Terraza
-*   **Basement**: Sótano
-*   **Attic**: Ático / Desván
-*   **Hall / Hallway**: Pasillo / Recibidor
-*   **Laundry room**: Lavadero / Cuarto de lavado
-*   **Study / Office**: Estudio / Despacho
+## Rooms in a House (Rooms in a House)
+*   **Living room**: Living room
+*   **Kitchen**: Kitchen
+*   **Bedroom**: Bedroom
+*   **Bathroom**: Bathroom
+*   **Dining room**: Dining room
+*   **Garden**: Garden
+*   **Garage**: Garage
+*   **Balcony**: Balcony
+*   **Terrace**: Terrace
+*   **Basement**: Basement
+*   **Attic**: Attic
+*   **Hall / Hallway**: Hall / Hallway
+*   **Laundry room**: Laundry room
+*   **Study / Office**: Study / Office
 
 ## Furniture by Room (Muebles por habitación)
 
 ### Living Room (Sala de estar)
-*   **Sofa / Couch**: Sofá
-*   **Armchair**: Sillón
-*   **Coffee table**: Mesa de centro
-*   **TV stand**: Mueble para TV
-*   **Bookshelf**: Estantería / Librero
-*   **Lamp**: Lámpara
-*   **Rug / Carpet**: Alfombra
+*   **Sofa / Couch**: Sofa
+*   **Armchair**: Armchair
+*   **Coffee table**: Coffee table
+*   **TV stand**: TV stand
+*   **Bookshelf**: Bookshelf
+*   **Lamp**: Lamp
+*   **Rug / Carpet**: Rug / Carpet
 
 ### Bedroom (Dormitorio)
-*   **Bed**: Cama
-*   **Nightstand**: Mesita de noche
-*   **Wardrobe / Closet**: Armario / Clóset
-*   **Dresser**: Cómoda
-*   **Mirror**: Espejo
-*   **Pillow**: Almohada
-*   **Blanket**: Manta / Cobija
+*   **Bed**: Bed
+*   **Nightstand**: Nightstand
+*   **Wardrobe / Closet**: Wardrobe / Closet
+*   **Dresser**: Dresser
+*   **Mirror**: Mirror
+*   **Pillow**: Pillow
+*   **Blanket**: Blanket
 
 ### Kitchen (Cocina)
-*   **Table**: Mesa
-*   **Chair**: Silla
-*   **Fridge / Refrigerator**: Nevera / Refrigerador
-*   **Stove / Cooker**: Estufa / Cocina
-*   **Oven**: Horno
-*   **Microwave**: Microondas
-*   **Sink**: Fregadero / Lavabo
-*   **Cupboard / Cabinet**: Alacena / Armario
+*   **Table**: Table
+*   **Chair**: Chair
+*   **Fridge / Refrigerator**: Fridge
+*   **Stove / Cooker**: Stove / Cooker
+*   **Oven**: Oven
+*   **Microwave**: Microwave
+*   **Sink**: Sink
+*   **Cupboard / Cabinet**: Cupboard / Cabinet
 
 ### Bathroom (Baño)
-*   **Toilet**: Inodoro / Váter
-*   **Sink**: Lavabo
-*   **Shower**: Ducha / Regadera
-*   **Bathtub**: Bañera / Tina
-*   **Mirror**: Espejo
-*   **Towel**: Toalla
+*   **Toilet**: Toilet
+*   **Sink**: Sink
+*   **Shower**: Shower
+*   **Bathtub**: Bathtub
+*   **Mirror**: Mirror
+*   **Towel**: Towel
 
-## Other Common Objects (Otros objetos comunes)
-*   **Window**: Ventana
-*   **Door**: Puerta
-*   **Wall**: Pared
-*   **Floor**: Suelo / Piso
-*   **Ceiling**: Techo
-*   **Stairs**: Escaleras
-*   **Curtains**: Cortinas
-*   **Picture / Painting**: Cuadro
-*   **Clock**: Reloj
-*   **Plant**: Planta
-*   **Vase**: Jarrón
+## Other Common Objects (Other Common Objects)
+*   **Window**: VWindow
+*   **Door**: Door
+*   **Wall**: Wall
+*   **Floor**: Floor
+*   **Ceiling**: Ceiling
+*   **Stairs**: Stairs
+*   **Curtains**: Curtains
+*   **Picture / Painting**: Picture / Painting
+*   **Clock**: Clock
+*   **Plant**: Plant
+*   **Vase**: Vase
 
 ## Prepositions of Place (Preposiciones de lugar)
 Las preposiciones de lugar nos ayudan a describir dónde están los objetos:
 
-*   **In** (En / Dentro de): *The milk is **in** the fridge.* (La leche está en la nevera.)
-*   **On** (Sobre / Encima de): *The book is **on** the table.* (El libro está sobre la mesa.)
-*   **Under** (Debajo de): *The cat is **under** the chair.* (El gato está debajo de la silla.)
-*   **Next to** (Al lado de): *The sofa is **next to** the window.* (El sofá está al lado de la ventana.)
-*   **Behind** (Detrás de): *The lamp is **behind** the sofa.* (La lámpara está detrás del sofá.)
-*   **In front of** (Delante de): *The car is **in front of** the house.* (El coche está delante de la casa.)
-*   **Between** (Entre): *The table is **between** the chairs.* (La mesa está entre las sillas.)
-*   **Above** (Encima de / Sobre): *The picture is **above** the sofa.* (El cuadro está encima del sofá.)
-*   **Below** (Debajo de): *The rug is **below** the table.* (La alfombra está debajo de la mesa.)
-*   **Near** (Cerca de): *The school is **near** my house.* (La escuela está cerca de mi casa.)
+*   **In** (En / Dentro de): *The milk is **in** the fridge. (La leche está en la nevera.)
+*   **On** (Sobre / Encima de): *The book is **on** the table. (El libro está sobre la mesa.)
+*   **Under** (Debajo de): *The cat is **under** the chair. (El gato está debajo de la silla.)
+*   **Next to** (Al lado de): *The sofa is **next to** the window. (El sofá está al lado de la ventana.)
+*   **Behind** (Detrás de): *The lamp is **behind** the sofa. (La lámpara está detrás del sofá.)
+*   **In front of** (Delante de): *The car is **in front of** the house. (El coche está delante de la casa.)
+*   **Between** (Entre): *The table is **between** the chairs. (La mesa está entre las sillas.)
+*   **Above** (Encima de / Sobre): *The picture is **above** the sofa. (El cuadro está encima del sofá.)
+*   **Below** (Debajo de): *The rug is **below** the table. (La alfombra está debajo de la mesa.)
+*   **Near** (Cerca de): *The school is **near** my house.(La escuela está cerca de mi casa.)
 
 ## There is / There are
 Usamos "There is" y "There are" para decir que algo existe o está en un lugar:
@@ -2192,62 +2192,62 @@ Use these words to create sentences with prepositions:
 What do you do? Where do you work? In this lesson, we learn about professions and where people work. Knowing how to talk about jobs is essential for everyday conversations.
 
 ## Common Jobs (Trabajos comunes)
-*   **Teacher**: Profesor/a
-*   **Doctor**: Médico/a
-*   **Nurse**: Enfermero/a
-*   **Waiter / Waitress**: Camarero/a - Mesero/a
-*   **Engineer**: Ingeniero/a
-*   **Student**: Estudiante
-*   **Chef / Cook**: Cocinero/a - Chef
-*   **Lawyer**: Abogado/a
-*   **Artist**: Artista
-*   **Pilot**: Piloto
-*   **Police officer**: Policía
-*   **Dentist**: Dentista
-*   **Accountant**: Contador/a - Contable
-*   **Architect**: Arquitecto/a
-*   **Mechanic**: Mecánico/a
-*   **Electrician**: Electricista
-*   **Plumber**: Fontanero/a - Plomero/a
-*   **Driver**: Conductor/a - Chofer
-*   **Farmer**: Granjero/a - Agricultor/a
-*   **Firefighter**: Bombero/a
+*   **Teacher**: Teacher
+*   **Doctor**: Doctor
+*   **Nurse**: Nurse
+*   **Waiter / Waitress**: Waiter / Waitress
+*   **Engineer**: Engineer
+*   **Student**: Student
+*   **Chef / Cook**: Chef / Cookf
+*   **Lawyer**: Lawyer
+*   **Artist**: Artist
+*   **Pilot**: Pilot
+*   **Police officer**: Police officer
+*   **Dentist**: Dentist
+*   **Accountant**: Accountant
+*   **Architect**: Architect
+*   **Mechanic**: Mechanic
+*   **Electrician**: Electrician
+*   **Plumber**: Plumber
+*   **Driver**: Driver
+*   **Farmer**: Farmer
+*   **Firefighter**: Firefighter
 
-## More Professions (Más profesiones)
-*   **Secretary**: Secretario/a
-*   **Manager**: Gerente - Director/a
-*   **Salesperson**: Vendedor/a
-*   **Cashier**: Cajero/a
-*   **Receptionist**: Recepcionista
-*   **Journalist**: Periodista
-*   **Photographer**: Fotógrafo/a
-*   **Musician**: Músico/a
-*   **Actor / Actress**: Actor / Actriz
-*   **Writer**: Escritor/a
-*   **Scientist**: Científico/a
-*   **Programmer**: Programador/a
-*   **Designer**: Diseñador/a
-*   **Hairdresser**: Peluquero/a
-*   **Cleaner**: Limpiador/a
+## More Professions (More Professions)
+*   **Secretary**: Secretary
+*   **Manager**: Manager
+*   **Salesperson**: Salesperson
+*   **Cashier**: Cashier
+*   **Receptionist**: Receptionist
+*   **Journalist**: Journalist
+*   **Photographer**: Photographer
+*   **Musician**: Musician
+*   **Actor / Actress**: Actor / Actress
+*   **Writer**: Writer
+*   **Scientist**: Scientist
+*   **Programmer**: Programmer
+*   **Designer**: Designer
+*   **Hairdresser**: Hairdresser
+*   **Cleaner**: Cleaner
 
-## Workplaces (Lugares de trabajo)
-*   **School**: Escuela
+## Workplaces (Workplaces)
+*   **School**: School
 *   **Hospital**: Hospital
-*   **Restaurant**: Restaurante
-*   **Office**: Oficina
-*   **Factory**: Fábrica
-*   **Store / Shop**: Tienda
-*   **Bank**: Banco
+*   **Restaurant**: Restaurant
+*   **Office**: Office
+*   **Factory**: Factory
+*   **Store / Shop**: Store / Shop
+*   **Bank**: Bank
 *   **Hotel**: Hotel
-*   **Airport**: Aeropuerto
-*   **Police station**: Comisaría - Estación de policía
-*   **Fire station**: Estación de bomberos
-*   **Farm**: Granja
-*   **Studio**: Estudio
-*   **Garage**: Taller - Garaje
-*   **Salon**: Salón (de belleza)
+*   **Airport**: Airport
+*   **Police station**: Police station
+*   **Fire station**: Fire station
+*   **Farm**: Farm
+*   **Studio**: Studio
+*   **Garage**: Garage
+*   **Salon**: Salon
 
-## Asking About Jobs (Preguntar sobre trabajos)
+## Asking About Jobs (Asking About Jobs)
 Para preguntar sobre el trabajo de alguien, usamos:
 
 *   **What do you do?** (¿A qué te dedicas? / ¿Qué haces?)
@@ -2504,13 +2504,13 @@ Usamos "the" + nacionalidad (en plural) para hablar de toda la gente de un país
 *   **We are American.** (Somos americanos.)
 
 ## Continents (Continentes)
-*   **Europe**: Europa
+*   **Europe**: Europe
 *   **Asia**: Asia
-*   **Africa**: África
-*   **North America**: América del Norte
-*   **South America**: América del Sur
-*   **Oceania**: Oceanía
-*   **Antarctica**: Antártida
+*   **Africa**: Africa
+*   **North America**: North America
+*   **South America**: South America
+*   **Oceania**: Oceania
+*   **Antarctica**: Antarctica
 
 ## Examples (Ejemplos)
 
@@ -2758,42 +2758,42 @@ El verbo "have" es irregular:
 ## Common Verbs (Verbos comunes)
 
 ### Daily Activities (Actividades diarias)
-*   **wake up**: despertarse
-*   **get up**: levantarse
-*   **have breakfast/lunch/dinner**: desayunar/almorzar/cenar
-*   **go to work/school**: ir al trabajo/escuela
-*   **start**: empezar
-*   **finish**: terminar
-*   **come back**: regresar
-*   **go to bed**: irse a la cama
+*   **wake up**: wake up
+*   **get up**: get up
+*   **have breakfast/lunch/dinner**: have breakfast/lunch/dinner
+*   **go to work/school**: go to work/school
+*   **start**: start
+*   **finish**: finish
+*   **come back**: come back
+*   **go to bed**: go to bed
 
 ### Other Common Verbs
-*   **like**: gustar
-*   **love**: encantar
-*   **hate**: odiar
-*   **want**: querer
-*   **need**: necesitar
-*   **know**: saber/conocer
-*   **understand**: entender
-*   **think**: pensar
-*   **believe**: creer
+*   **like**: like
+*   **love**: love
+*   **hate**: hate
+*   **want**: want
+*   **need**: need
+*   **know**: know
+*   **understand**: understand
+*   **think**: think
+*   **believe**: believe
 
-## Time Expressions (Expresiones de tiempo)
+## Time Expressions (Time Expressions)
 Estas palabras se usan frecuentemente con el Present Simple:
 
-*   **every day**: todos los días
-*   **every week**: cada semana
-*   **every month**: cada mes
-*   **every year**: cada año
-*   **always**: siempre
-*   **usually**: usualmente
-*   **often**: a menudo
-*   **sometimes**: a veces
-*   **rarely**: raramente
-*   **never**: nunca
-*   **on Mondays**: los lunes
-*   **in the morning/afternoon/evening**: por la mañana/tarde/noche
-*   **at night**: por la noche
+*   **every day**: every day
+*   **every week**: every week
+*   **every month**: every month
+*   **every year**: every year
+*   **always**: always
+*   **usually**: usually
+*   **often**: often
+*   **sometimes**: sometimes
+*   **rarely**: rarely
+*   **never**: never
+*   **on Mondays**: on Mondays
+*   **in the morning/afternoon/evening**: in the morning/afternoon/evening
+*   **at night**: at night
 
 ## Examples (Ejemplos)
 
@@ -3194,75 +3194,75 @@ Las colocaciones son combinaciones de palabras que los hablantes nativos usan ju
 Usamos "have" para comidas, bebidas, y posesiones:
 
 *   **have breakfast/lunch/dinner**: desayunar/almorzar/cenar
-*   **have a coffee/tea**: tomar un café/té
-*   **have a shower/bath**: ducharse/bañarse
-*   **have a party**: hacer una fiesta
-*   **have a good time**: pasarlo bien
-*   **have a problem**: tener un problema
-*   **have a question**: tener una pregunta
-*   **have fun**: divertirse
+*   **have a coffee/tea**: have a coffee/tea
+*   **have a shower/bath**: have a shower/bath
+*   **have a party**: have a party
+*   **have a good time**: have a good time
+*   **have a problem**: have a problem
+*   **have a question**: have a question
+*   **have fun**: have fun
 
 ### GO (Ir)
 Usamos "go" para movimiento y actividades:
 
-*   **go home**: ir a casa
-*   **go to work/school**: ir al trabajo/escuela
-*   **go to bed**: irse a la cama
-*   **go shopping**: ir de compras
-*   **go swimming**: ir a nadar
-*   **go running**: ir a correr
-*   **go for a walk**: ir a caminar
-*   **go on holiday/vacation**: ir de vacaciones
-*   **go out**: salir
+*   **go home**: go home
+*   **go to work/school**: go to work/school
+*   **go to bed**: go to bed
+*   **go shopping**: go shopping
+*   **go swimming**: go swimming
+*   **go running**: go running
+*   **go for a walk**: go for a walk
+*   **go on holiday/vacation**: go on holiday/vacation
+*   **go out**: go out
 
 ### DO (Hacer - actividades)
 Usamos "do" para actividades y tareas:
 
-*   **do homework**: hacer la tarea
-*   **do exercise**: hacer ejercicio
-*   **do the housework**: hacer las tareas del hogar
-*   **do the dishes**: lavar los platos
-*   **do the laundry**: lavar la ropa
-*   **do your best**: hacer tu mejor esfuerzo
-*   **do a favor**: hacer un favor
-*   **do business**: hacer negocios
+*   **do homework**: do homework
+*   **do exercise**: do exercise
+*   **do the housework**: do the housework
+*   **do the dishes**: do the dishes
+*   **do the laundry**: do the laundry
+*   **do your best**: do your best
+*   **do a favor**: do a favor
+*   **do business**: do business
 
 ### MAKE (Hacer - crear/producir)
 Usamos "make" para crear o producir algo:
 
-*   **make breakfast/lunch/dinner**: preparar desayuno/almuerzo/cena
-*   **make a cake**: hacer un pastel
-*   **make coffee/tea**: preparar café/té
-*   **make a mistake**: cometer un error
-*   **make a decision**: tomar una decisión
-*   **make money**: ganar dinero
-*   **make friends**: hacer amigos
-*   **make noise**: hacer ruido
-*   **make a phone call**: hacer una llamada
+*   **make breakfast/lunch/dinner**: make breakfast
+*   **make a cake**: make a cake
+*   **make coffee/tea**: make coffee/tea
+*   **make a mistake**: make a mistake
+*   **make a decision**: make a decision
+*   **make money**: make money
+*   **make friends**: make friends
+*   **make noise**: make noise
+*   **make a phone call**: make a phone call
 
 ### TAKE (Tomar / Llevar)
 Usamos "take" para transporte y tiempo:
 
-*   **take a shower/bath**: ducharse/bañarse
-*   **take a photo**: tomar una foto
-*   **take a taxi/bus**: tomar un taxi/autobús
-*   **take medicine**: tomar medicina
-*   **take a break**: tomar un descanso
-*   **take time**: tomar tiempo
-*   **take care**: cuidar
-*   **take notes**: tomar apuntes
+*   **take a shower/bath**: take a shower/bath
+*   **take a photo**: take a photo
+*   **take a taxi/bus**: take a taxi/bus
+*   **take medicine**: take medicine
+*   **take a break**: take a break
+*   **take time**: take time
+*   **take care**: take care
+*   **take notes**: take notes
 
 ### GET (Obtener / Conseguir / Llegar)
 Usamos "get" para obtener y movimiento:
 
-*   **get up**: levantarse
-*   **get home**: llegar a casa
-*   **get to work**: llegar al trabajo
-*   **get dressed**: vestirse
-*   **get ready**: prepararse
-*   **get a job**: conseguir un trabajo
-*   **get married**: casarse
-*   **get angry**: enojarse
+*   **get up**: get up
+*   **get home**: get home
+*   **get to work**: get to work
+*   **get dressed**: get dressed
+*   **get ready**: get ready
+*   **get a job**: get a job
+*   **get married**: get married
+*   **get angry**: et angry
 
 ## DO vs MAKE (Diferencia importante)
 
@@ -3277,38 +3277,38 @@ Usamos "get" para obtener y movimiento:
 ## Other Important Collocations
 
 ### WATCH (Ver - con atención)
-*   **watch TV**: ver televisión
-*   **watch a movie/film**: ver una película
-*   **watch a video**: ver un video
-*   **watch a game**: ver un partido
+*   **watch TV**: watch TV
+*   **watch a movie/film**: watch a movie/film
+*   **watch a video**: watch a video
+*   **watch a game**: watch a game
 
 ### SEE (Ver - percibir)
-*   **see a doctor**: ver a un doctor
-*   **see a friend**: ver a un amigo
-*   **see a movie**: ver una película (en el cine)
+*   **see a doctor**: see a doctor
+*   **see a friend**: see a friend
+*   **see a movie**: see a movie
 
 ### LISTEN TO (Escuchar)
-*   **listen to music**: escuchar música
-*   **listen to the radio**: escuchar la radio
-*   **listen to a podcast**: escuchar un podcast
+*   **listen to music**: listen to music
+*   **listen to the radio**: listen to the radio
+*   **listen to a podcast**: listen to a podcast
 
 ### PLAY (Jugar / Tocar)
-*   **play football/tennis**: jugar fútbol/tenis
-*   **play video games**: jugar videojuegos
-*   **play the piano/guitar**: tocar el piano/guitarra
-*   **play cards**: jugar cartas
+*   **play football/tennis**: play football/tennis
+*   **play video games**: play video games
+*   **play the piano/guitar**: play the piano/guitar
+*   **play cards**: play cards
 
 ### READ (Leer)
-*   **read a book**: leer un libro
-*   **read the news**: leer las noticias
-*   **read a magazine**: leer una revista
-*   **read an email**: leer un correo
+*   **read a book**: read a book
+*   **read the news**: read the news
+*   **read a magazine**: read a magazine
+*   **read an email**: read an email
 
 ### WRITE (Escribir)
-*   **write a letter**: escribir una carta
-*   **write an email**: escribir un correo
-*   **write a message**: escribir un mensaje
-*   **write a report**: escribir un informe
+*   **write a letter**: write a letter
+*   **write an email**: write an email
+*   **write a message**: write a message
+*   **write a report**: write a report
 
 ## Examples (Ejemplos)
 
@@ -4056,17 +4056,17 @@ Where do you go every day? Knowing the names of places in a city is essential fo
 ## Prepositions of Place (Preposiciones de lugar)
 
 ### Basic Prepositions
-*   **In** (En/Dentro de): *The book is in the library.*
-*   **On** (En/Sobre): *The bank is on Main Street.*
-*   **At** (En): *I'm at the supermarket.*
-*   **Next to** / **Beside** (Al lado de): *The pharmacy is next to the bank.*
-*   **Between** (Entre): *The café is between the bank and the store.*
-*   **Across from** / **Opposite** (Enfrente de): *The park is across from the hospital.*
-*   **Near** / **Close to** (Cerca de): *The gym is near my house.*
-*   **Far from** (Lejos de): *The airport is far from downtown.*
-*   **In front of** (Delante de): *There's a bus stop in front of the mall.*
-*   **Behind** (Detrás de): *The parking lot is behind the restaurant.*
-*   **Around the corner** (A la vuelta de la esquina): *The bakery is around the corner.*
+*   **In** (En/Dentro de): *The book is in the library.
+*   **On** (En/Sobre): *The bank is on Main Street.
+*   **At** (En): *I'm at the supermarket.
+*   **Next to** / **Beside** (Al lado de): *The pharmacy is next to the bank.
+*   **Between** (Entre): *The café is between the bank and the store.
+*   **Across from** / **Opposite** (Enfrente de): *The park is across from the hospital.
+*   **Near** / **Close to** (Cerca de): *The gym is near my house.
+*   **Far from** (Lejos de): *The airport is far from downtown.
+*   **In front of** (Delante de): *There's a bus stop in front of the mall.
+*   **Behind** (Detrás de): *The parking lot is behind the restaurant.
+*   **Around the corner** (A la vuelta de la esquina): *The bakery is around the corner.
 
 ## Giving Directions (Dar direcciones)
 
@@ -4305,86 +4305,86 @@ Food and drink are central to daily life and social interactions. Learning vocab
 ## Food Categories (Categorías de alimentos)
 
 ### Fruits (Frutas)
-*   **Apple**: Manzana
-*   **Banana**: Plátano
-*   **Orange**: Naranja
-*   **Grapes**: Uvas
-*   **Strawberry**: Fresa
+*   **Apple**: Apple
+*   **Banana**: Banana
+*   **Orange**: Orange
+*   **Grapes**: Grapes
+*   **Strawberry**: Strawberry
 *   **Mango**: Mango
-*   **Pineapple**: Piña
+*   **Pineapple**: Pineapple
 
 ### Vegetables (Verduras)
-*   **Carrot**: Zanahoria
-*   **Potato**: Patata
-*   **Tomato**: Tomate
-*   **Onion**: Cebolla
-*   **Lettuce**: Lechuga
-*   **Broccoli**: Brócoli
-*   **Spinach**: Espinacas
+*   **Carrot**: Carrot
+*   **Potato**: Potato
+*   **Tomato**: Tomato*
+*   **Onion**: Onion
+*   **Lettuce**: Lettuce
+*   **Broccoli**: Broccoli
+*   **Spinach**: Spinach
 
 ### Meats (Carnes)
-*   **Chicken**: Pollo
-*   **Beef**: Carne de res
-*   **Pork**: Cerdo
-*   **Fish**: Pescado
-*   **Lamb**: Cordero
-*   **Sausage**: Salchicha
+*   **Chicken**: Chicken
+*   **Beef**: Beef
+*   **Pork**: Pork
+*   **Fish**: Fish
+*   **Lamb**: Lamb*
+*   **Sausage**: Sausage
 
 ### Dairy Products (Productos lácteos)
-*   **Milk**: Leche
-*   **Cheese**: Queso
-*   **Yogurt**: Yogur
-*   **Butter**: Mantequilla
+*   **Milk**: Milk
+*   **Cheese**: Cheese
+*   **Yogurt**: Yogurt
+*   **Butter**: Butter
 
 ### Grains & Breads (Granos y panes)
-*   **Bread**: Pan
-*   **Rice**: Arroz
+*   **Bread**: Bread
+*   **Rice**: Rice
 *   **Pasta**: Pasta
 *   **Cereal**: Cereal
-*   **Oats**: Avena
+*   **Oats**: Oats
 
 ### Sweets & Desserts (Dulces y postres)
-*   **Cake**: Pastel
-*   **Cookies**: Galletas
-*   **Ice cream**: Helado
+*   **Cake**: Cake
+*   **Cookies**: Cookies
+*   **Ice cream**: Ice cream
 *   **Chocolate**: Chocolate
-*   **Candy**: Caramelo
+*   **Candy**: Candy
 
 ## Drinks (Bebidas)
-*   **Water**: Agua
-*   **Juice**: Jugo (Orange juice, Apple juice)
-*   **Coffee**: Café
-*   **Tea**: Té
-*   **Soft drink / Soda**: Refresco
-*   **Beer**: Cerveza
-*   **Wine**: Vino
+*   **Water**: Water
+*   **Juice**: Juice (Orange juice, Apple juice)
+*   **Coffee**: Coffee
+*   **Tea**: Tea
+*   **Soft drink / Soda**: Soft drink / Soda
+*   **Beer**: Beer
+*   **Wine**: Wine
 
 ## Meals and Meal Times (Comidas y horarios)
-*   **Breakfast**: Desayuno (Usually 7-9 AM)
-*   **Lunch**: Almuerzo / Comida (Usually 12-2 PM)
-*   **Dinner**: Cena (Usually 6-9 PM)
-*   **Snack**: Merienda / Aperitivo (Between meals)
+*   **Breakfast**: Breakfast (Usually 7-9 AM)
+*   **Lunch**: Lunch / Comida (Usually 12-2 PM)
+*   **Dinner**: Dinner (Usually 6-9 PM)
+*   **Snack**: Snack (Between meals)
 
 ## Cooking Verbs (Verbos de cocina)
-*   **Cook**: Cocinar
-*   **Bake**: Hornear (for bread, cake)
-*   **Fry**: Freír
-*   **Boil**: Hervir
-*   **Grill**: Asar a la parrilla
-*   **Roast**: Asar (in an oven)
-*   **Chop**: Picar
-*   **Cut**: Cortar
-*   **Mix**: Mezclar
-*   **Peel**: Pelar
+*   **Cook**: Cook
+*   **Bake**: Bake (for bread, cake)
+*   **Fry**: Fry
+*   **Boil**: Boil
+*   **Grill**: Grill
+*   **Roast**: Roast (in an oven)
+*   **Chop**: Chop
+*   **Cut**: CutCortar
+*   **Mix**: Mix
+*   **Peel**: Peel
 
 ## Tastes and Flavors (Sabores)
-*   **Sweet**: Dulce (Sugar, candy)
-*   **Salty**: Salado (Chips, fries)
-*   **Sour**: Agrio (Lemon, vinegar)
-*   **Bitter**: Amargo (Dark chocolate, coffee)
-*   **Spicy**: Picante (Chili, hot sauce)
-*   **Delicious**: Delicioso (General positive)
-*   **Tasteless**: Insípido (No flavor)
+*   **Sweet**: Sweet (Sugar, candy)
+*   ****Salty: Salty (Chips, fries)
+*   **Sour**: Sour (Lemon, vinegar)
+*   **Bitter**: Bitter (Dark chocolate, coffee)
+*   **Spicy**: Spicy (Chili, hot sauce)
+*   **Delicious**: Delicious (General positive)
+*   **Tasteless**: Tasteless* (No flavor)
 
 ## Eating Out (Comer fuera)
 
@@ -4640,31 +4640,31 @@ Talking about the weather is a very common topic in everyday English conversatio
 ## Common Weather Conditions (Condiciones climáticas comunes)
 
 ### General Weather (Clima general)
-*   **Sunny**: Soleado (clear skies, sun shining)
-*   **Cloudy**: Nublado (many clouds, sun might be hidden)
-*   **Partly Cloudy**: Parcialmente nublado (some clouds, some sun)
-*   **Rainy**: Lluvioso (rain falling)
-*   **Stormy**: Tormentoso (strong winds, heavy rain, thunder, lightning)
-*   **Windy**: Ventoso (lots of wind)
-*   **Snowy**: Nevado (snow falling)
-*   **Foggy**: Con niebla (thick fog, low visibility)
-*   **Icy**: Helado (ground covered in ice)
+*   **Sunny**: Sunny (clear skies, sun shining)
+*   **Cloudy**: Cloudy (many clouds, sun might be hidden)
+*   **Partly Cloudy**: Partly Cloudy (some clouds, some sun)
+*   **Rainy**: Rainy (rain falling)
+*   **Stormy**: Stormy (strong winds, heavy rain, thunder, lightning)
+*   **Windy**: Windy (lots of wind)
+*   **Snowy**: Snowy (snow falling)
+*   **Foggy**: Foggy(thick fog, low visibility)
+*   **Icy**: Icy (ground covered in ice)
 
 ### Temperature (Temperatura)
-*   **Hot**: Caluroso (very high temperature)
-*   **Warm**: Templado / Cálido (pleasantly high temperature)
-*   **Mild**: Suave (neither hot nor cold, pleasant)
-*   **Cool**: Fresco (slightly cold, but pleasant)
-*   **Cold**: Frío (low temperature)
-*   **Freezing**: Helado / Gélido (extremely cold, below 0°C/32°F)
+*   **Hot**: Hot (very high temperature)
+*   **Warm**: Warm / Cálido (pleasantly high temperature)
+*   **Mild**: Mild (neither hot nor cold, pleasant)
+*   **Cool**: Cool (slightly cold, but pleasant)
+*   **Cold**: Cold (low temperature)
+*   **Freezing**: Freezing (extremely cold, below 0°C/32°F)
 
 ### Natural Phenomena (Fenómenos naturales)
-*   **Thunder**: Trueno
-*   **Lightning**: Relámpago
-*   **Rainbow**: Arcoíris
-*   **Hail**: Granizo
-*   **Drought**: Sequía
-*   **Flood**: Inundación
+*   **Thunder**: Thunder
+*   **Lightning**: Lightning
+*   **Rainbow**: Rainbow
+*   **Hail**: Hail
+*   **Drought**: Drought
+*   **Flood**: Flood
 
 ## Asking About the Weather (Preguntar sobre el clima)
 
