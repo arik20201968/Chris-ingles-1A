@@ -875,7 +875,20 @@ function parseMarkdown(markdown) {
         const headers = headerLine.split('|').filter(c => c.trim() !== '');
         const rows = bodyLines.trim().split('\n');
 
-        let tableHtml = '<div class="table-responsive-wrapper"><table><thead><tr>';
+        // Detectar si es tabla de traducción (buscar "Traducción" o "Translation" en el header)
+        const isTranslationTable = headerLine.toLowerCase().includes('traducción') || 
+                                   headerLine.toLowerCase().includes('translation') ||
+                                   headerLine.toLowerCase().includes('español');
+
+        let tableHtml = '<div class="table-responsive-wrapper"><table';
+        
+        // Agregar clase especial si es tabla de traducción
+        if (isTranslationTable) {
+            tableHtml += ' class="translation-table"';
+        }
+        
+        tableHtml += '><thead><tr>';
+        
         headers.forEach(h => {
             tableHtml += `<th>${h.trim()}</th>`;
         });
@@ -887,12 +900,14 @@ function parseMarkdown(markdown) {
                 tableHtml += '<tr>';
                 cells.forEach((cell, idx) => {
                     let cellContent = cell.trim();
-                    // Agregar botón de audio si la celda tiene una letra o palabra destacada
+                    // Solo agregar botón de audio si NO es tabla de traducción
                     let audioBtn = '';
-                    const matchBold = cellContent.match(/\*\*([^*]+)\*\*/);
-                    if (matchBold && idx === 0) {
-                        const wordToSpeak = escapeHtml(matchBold[1]);
-                        audioBtn = ` <button class="btn-speech-play" onclick="speakText('${wordToSpeak}', this)" title="Escuchar">🔊</button>`;
+                    if (!isTranslationTable) {
+                        const matchBold = cellContent.match(/\*\*([^*]+)\*\*/);
+                        if (matchBold && idx === 0) {
+                            const wordToSpeak = escapeHtml(matchBold[1]);
+                            audioBtn = ` <button class="btn-speech-play" onclick="speakText('${wordToSpeak}', this)" title="Escuchar">🔊</button>`;
+                        }
                     }
                     tableHtml += `<td>${cellContent}${audioBtn}</td>`;
                 });

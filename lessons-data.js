@@ -22,18 +22,18 @@ Common ways to say hello:
 ## More Informal Greetings
 *   **What's up?**: ¿Qué tal? (Very casual)
 *   **How's it going?**: ¿Cómo va todo? (Casual)
-*   **Howdy**: Hola (Used in some regions, very informal)
+*   **Howdy**: Howdy (Used in some regions, very informal)
 
 ## Farewells (Despedidas)
 Common ways to say goodbye:
-*   **Goodbye**: Standard way to leave.
-*   **Bye**: Informal and very common.
-*   **See you later**: Used when you will see the person again soon.
-*   **See you soon**: Te veo pronto.
-*   **See you tomorrow**: Nos vemos mañana.
-*   **Good night**: Used when leaving at night or going to sleep.
-*   **Take care**: Cuídate (Friendly way to say goodbye).
-*   **Have a nice day**: Que tengas un buen día.
+*   **Goodbye**: Goodbye, Standard way to leave.
+*   **Bye**: Bye, Informal and very common.
+*   **See you later**: See you later, Used when you will see the person again soon.
+*   **See you soon**: See you soon
+*   **See you tomorrow**: See you tomorrow
+*   **Good night**: Good night, Used when leaving at night or going to sleep.
+*   **Take care**: Take care (Friendly way to say goodbye).
+*   **Have a nice day**: Have a nice day.
 
 ## Real-Life Examples (Ejemplos de la vida real)
 
@@ -61,14 +61,14 @@ Common ways to say goodbye:
 *   **How are you?**: ¿Cómo estás?
 *   **How are you doing?**: ¿Cómo te va?
 *   **I am fine / I am good**: Estoy bien.
-*   **I am very well**: Estoy muy bien.
+*   **I am very well**: I am very well
 *   **Not bad**: Not bad.
 *   **So-so**: Más o menos.
 *   **Thank you / Thanks**: Gracias.
-*   **You're welcome**: De nada.
-*   **Nice to meet you**: Mucho gusto / Encantado de conocerte.
-*   **Nice to see you**: Qué bueno verte.
-*   **Pleased to meet you**: Encantado de conocerte (formal).
+*   **You're welcome**: You're welcome
+*   **Nice to meet you**: Nice to meet you
+*   **Nice to see you**: Nice to see you
+*   **Pleased to meet you**: Pleased to meet you
 
 ## Common Responses (Respuestas comunes)
 When someone asks "How are you?", you can say:
@@ -146,7 +146,37 @@ Translate these phrases to English:
 2. Estoy bien, gracias. → ____________________
 3. Nos vemos mañana. → ____________________
 4. Buenas noches. → ____________________
-5. Mucho gusto. → ____________________`
+5. Mucho gusto. → ____________________
+
+---
+
+## 📚 Glosario de Traducción
+
+| English | Español |
+|---------|---------|
+| **Hello** | Hola |
+| **Hi** | Hola (informal) |
+| **Good morning** | Buenos días |
+| **Good afternoon** | Buenas tardes |
+| **Good evening** | Buenas noches (llegada) |
+| **Good night** | Buenas noches (despedida) |
+| **Goodbye** | Adiós |
+| **Bye** | Adiós (informal) |
+| **See you later** | Nos vemos luego |
+| **See you soon** | Nos vemos pronto |
+| **See you tomorrow** | Nos vemos mañana |
+| **Take care** | Cuídate |
+| **Have a nice day** | Que tengas un buen día |
+| **How are you?** | ¿Cómo estás? |
+| **I'm fine** | Estoy bien |
+| **I'm good** | Estoy bien |
+| **I'm great** | Estoy genial |
+| **Not bad** | No está mal |
+| **So-so** | Más o menos |
+| **Thank you** | Gracias |
+| **You're welcome** | De nada |
+| **Nice to meet you** | Encantado de conocerte |
+| **Nice to see you** | Qué bueno verte |`
             },
             {
                 title: "1.2: The Alphabet and Spelling",
@@ -377,9 +407,9 @@ Numbers are useful for many things: ages, prices, phone numbers, and of course, 
 
 ## Important Rules for Numbers
 *   Numbers 21-99: Use a hyphen (-) between tens and ones
-    *   21: Twenty-one
-    *   35: Thirty-five
-    *   99: Ninety-nine
+    **   21: Twenty-one**
+    **   35: Thirty-five**
+    **   99: Ninety-nine**
 *   100: One hundred (not "a hundred" in formal writing)
 *   Use "and" in British English: 101 = One hundred and one
 
@@ -443,19 +473,18 @@ For numbers ending in 1, 2, or 3 (except 11, 12, 13), the last digit determines 
 
 ### Using Ordinal Numbers in Real Life
 
-#### Dates (Fechas)
+Dates (Fechas)
 *   **Today is January 1st.** (January first)
 *   **My birthday is on May 2nd.** (May second)
 *   **The meeting is on the 15th of March.** (the fifteenth of March)
 
-#### Order/Sequence (Orden/Secuencia)
+Order/Sequence (Orden/Secuencia)
 *   **He is the first person in line.**
 *   **She won second place.**
 *   **This is my third coffee today.**
 
-#### Centuries (Siglos)
-*   **The 21st century.** (the twenty-first century)
-*   **The 19th century.** (the nineteenth century)
+**The 21st century.** (the twenty-first century)
+**The 19th century.** (the nineteenth century)
 
 ## Practice Exercises - Ordinal Numbers
 
@@ -480,14 +509,24 @@ For numbers ending in 1, 2, or 3 (except 11, 12, 13), the last digit determines 
 
 ### Exercise O3: Match the cardinal to the ordinal
 Match each cardinal number with its correct ordinal form.
-*   Cardinal     Ordinal
-    *   1           a) Fourth
-    *   2           b) Fifth
-    *   3           c) First
-    *   4           d) Second
-    *   5           e) Third
+**   Cardinal     Ordinal**
 
-Answers: 1-____, 2-____, 3-____, 4-____, 5-____
+    **   1           a) Fourth**
+
+    **   2           b) Fifth**
+
+    **   3           c) First**
+
+    **   4           d) Second**
+
+    **   5           e) Third**
+
+Answers: 
+1-____, 
+2-____, 
+3-____, 
+4-____, 
+5-____
 
 ## Using Numbers in Real Life
 
@@ -708,7 +747,7 @@ In this lesson, we will learn how to identify everyday items and describe them u
 *   **A cup**: A cup
 
 ## Common Objects - Clothes
-*   **A shirt**: Una camisa
+*   **A shirt**: A shirt
 *   **A T-shirt**: A T-shirt
 *   **Pants**: Pants
 *   **Shoes**: Shoes
@@ -725,7 +764,7 @@ In this lesson, we will learn how to identify everyday items and describe them u
 *   **Green shoes**: Green shoes.
 
 ## Important Grammar Rules
-*   In English, adjectives (like colors) come **BEFORE** the noun:
+*   **In English, adjectives (like colors) come BEFORE the noun:** 
     *   ✅ Correct: A **red** car
     *   ❌ Incorrect: A car red
 *   Colors don't change for plural:
@@ -849,7 +888,51 @@ Use these words to make sentences (color + object):
 2. (blue / car) -> ____________________
 3. (green / pen) -> ____________________
 4. (yellow / shirt) -> ____________________
-5. (black / phone) -> ____________________`
+5. (black / phone) -> ____________________
+
+---
+
+## 📚 Glosario de Traducción
+
+| English | Español |
+|---------|---------|
+| **Red** | Rojo |
+| **Blue** | Azul |
+| **Green** | Verde |
+| **Yellow** | Amarillo |
+| **Black** | Negro |
+| **White** | Blanco |
+| **Grey** | Gris |
+| **Brown** | Marrón |
+| **Pink** | Rosa |
+| **Orange** | Naranja |
+| **Purple** | Morado |
+| **Light blue** | Azul claro |
+| **Dark blue** | Azul oscuro |
+| **Book** | Libro |
+| **Pen** | Bolígrafo |
+| **Pencil** | Lápiz |
+| **Notebook** | Cuaderno |
+| **Desk** | Escritorio |
+| **Chair** | Silla |
+| **Table** | Mesa |
+| **Bag** | Bolsa/Mochila |
+| **Phone** | Teléfono |
+| **Computer** | Computadora |
+| **TV** | Televisor |
+| **Lamp** | Lámpara |
+| **Door** | Puerta |
+| **Window** | Ventana |
+| **Clock** | Reloj |
+| **Mirror** | Espejo |
+| **Key** | Llave |
+| **Cup** | Taza |
+| **Shirt** | Camisa |
+| **T-shirt** | Camiseta |
+| **Pants** | Pantalones |
+| **Shoes** | Zapatos |
+| **Hat** | Sombrero |
+| **Jacket** | Chaqueta |`
             }
         ]
     },
@@ -960,11 +1043,11 @@ To make questions, put the verb **BEFORE** the subject:
 
 ## Important Notes
 *   **"It"** is used for things, animals, and weather:
-    *   It **is** a book.
-    *   It **is** cold today.
-*   **"They"** is used for plural (people, things, animals):
-    *   They **are** my books.
-    *   They **are** doctors.
+    *  ** It is a book.**
+    *  ** It is cold today.**
+*   **"They" is used for plural (people, things, animals)**:
+    *   **They are my books**.
+    *   **They are doctors**.
 
 ## Real-Life Examples
 
@@ -1351,14 +1434,14 @@ Possessive adjectives show that something belongs to someone.
 ## Possessive Adjectives vs. Possessive Pronouns
 
 ### Possessive Adjectives (+ noun)
-*   This is **my** book.
-*   That is **your** car.
-*   **His** phone is new.
+*  ** This is my book.**
+*  ** That is your car.**
+*   **His phone is new.**
 
 ### Possessive Pronouns (NO noun)
-*   This book is **mine**.
-*   That car is **yours**.
-*   The phone is **his**.
+*   **This book is mine**.
+*   **That car is yours**.
+*   **The phone is his**.
 
 | Possessive Adjective | Possessive Pronoun |
 | :--- | :--- |
@@ -1371,13 +1454,13 @@ Possessive adjectives show that something belongs to someone.
 | Their | Theirs |
 
 ## More Examples
-*   I have a dog. **My** dog is small.
-*   You have a car. **Your** car is fast.
-*   He has a name. **His** name is Peter.
-*   She loves **her** family.
-*   We like **our** teacher.
-*   They clean **their** room.
-*   The cat eats **its** food.
+*   I have a dog. **My dog is small.**
+*   You have a car. **Your car is fast.**
+*   He has a name. **His name is Peter.**
+*   She loves **her family.**
+*   We like **ourteacher.** 
+*   They clean **their room.**
+*   The cat eats **its food.**
 
 ## Using Possessive Adjectives with Family
 *   **My** mother is a teacher.
@@ -1530,95 +1613,95 @@ To get information, we use **Question Words** (also called Wh- words).
 ## Detailed Explanation
 
 ### WHO - For People
-*   **Who** is your best friend?
-*   **Who** are they?
-*   **Who** teaches English?
-*   **Who** lives here?
+*   **Who is your best friend?**
+*   **Who are they?**
+*   **Who teaches English?**
+*   **Who lives here?**
 
 ### WHAT - For Things, Actions, Information
-*   **What** is your name?
-*   **What** do you do? (profession)
-*   **What** time is it?
-*   **What** color is your car?
+*   **What is your name?**
+*   **What do you do?**
+*   **What time is it?**
+*   **What color is your car?**
 
 ### WHERE - For Places and Locations
-*   **Where** do you live?
-*   **Where** is the bank?
-*   **Where** are you from?
-*   **Where** is my phone?
+*   **Where do you live?**
+*   **Where is the bank?**
+*   **Where are you from?**
+*   **Where is my phone?**
 
 ### WHEN - For Time
-*   **When** is your birthday?
-*   **When** do you study?
-*   **When** is the meeting?
-*   **When** does the class start?
+*   **When is your birthday?**
+*   **When do you study?**
+*   **When is the meeting?**
+*   **When does the class start?**
 
 ### WHY - For Reasons (Answer: Because...)
-*   **Why** are you late? → Because I missed the bus.
-*   **Why** do you study English? → Because I need it for work.
-*   **Why** is she sad? → Because she lost her phone.
+*   **Why are you late?** → Because I missed the bus.
+*   **Why do you study English?** → Because I need it for work.
+*   **Why is she sad?** → Because she lost her phone.
 
 ### HOW - For Manner, State, or Method
-*   **How** are you? → I'm fine.
-*   **How** do you go to work? → By car.
-*   **How** old are you? → I'm 25.
-*   **How** much is it? → It's $10.
-*   **How** many books do you have? → I have 5 books.
+*   **How are you?** → I'm fine.
+*   **How do you go to work?** → By car.
+*   **How old are you?** → I'm 25.
+*   **How much is it?** → It's $10.
+*   **How many books do you have?** → I have 5 books.
 
 ### WHICH - For Choices
-*   **Which** book do you want? (This one or that one?)
-*   **Which** color do you prefer?
-*   **Which** is your car?
+*   **Which book do you want?**
+*   **Which color do you prefer?**
+*   **Which is your car?**
 
 ### WHOSE - For Possession
-*   **Whose** book is this? → It's mine.
-*   **Whose** car is that? → It's John's.
-*   **Whose** phone is ringing?
+*   **Whose book is this?** → It's mine.
+*   **Whose car is that?** → It's John's.
+*   **Whose phone is ringing?**
 
 ## Question Structure with "To Be"
 
 ### Pattern: Question Word + To Be + Subject?
-*   **Who** is she?
-*   **What** is your name?
-*   **Where** are you?
-*   **When** is the party?
-*   **Why** are you happy?
-*   **How** is your mother?
+*   **Who is she?**
+*   **What is your name?**
+*   **Where are you?**
+*   **When is the party?**
+*   **Why are you happy?**
+*   **How is your mother?**
 
 ## Common Question Combinations
 
 ### How + Adjective/Adverb
-*   **How old** are you? (age)
-*   **How tall** is he? (height)
-*   **How far** is it? (distance)
-*   **How long** is the movie? (duration)
-*   **How much** is it? (price - uncountable)
-*   **How many** books? (quantity - countable)
-*   **How often** do you exercise? (frequency)
+*   **How old are you?**
+*   **How tall is he?**
+*   **How far is it?**
+*   **How long is the movie?**
+*   **How much is it?**
+*   **How many books?**
+*   **How often do you exercise?**
 
 ### What + Noun
-*   **What time** is it?
-*   **What color** is your car?
-*   **What kind** of music do you like?
-*   **What type** of food do you prefer?
+*   **What time is it?**
+*   **What color is your car?**
+*   **What kind of music do you like?**
+*   **What type of food do you prefer?**
 
 ## Answering Question Words
 
 ### Short Answers
-*   **Who** is he? → My brother.
-*   **What** is this? → A book.
-*   **Where** are you? → At home.
-*   **When** is the party? → Tomorrow.
-*   **Why** are you late? → Because of traffic.
-*   **How** are you? → Fine, thanks.
+*   **Who is he?** → My brother.
+*   **What is this?** → A book.
+*   **Where are you?** → At home.
+*   **When is the party?** → Tomorrow.
+*   **Why are you late?** → Because of traffic.
+*   **How are you?** → Fine, thanks.
 
 ### Complete Answers
-*   **Who** is your teacher? → My teacher is Mr. Smith.
-*   **What** is your job? → I am a doctor.
-*   **Where** do you live? → I live in Madrid.
-*   **When** is your birthday? → My birthday is in June.
-*   **Why** do you study English? → I study English because I need it for work.
-*   **How** do you go to school? → I go to school by bus.
+*   **Who is your teacher?** → My teacher is Mr. Smith.
+*   **What is your job?** → I am a doctor.
+*   **Where do you live?** → I live in Madrid.
+*   **When is your birthday?** → My birthday is in June.
+*   **Why do you study English?** → I study English because I need it for work.
+*   **How do you go to school?** → I go to school by bus.
 
 ## Real-Life Examples
 
@@ -1795,15 +1878,15 @@ In this lesson, you will learn the words for different members of a family.
 *   **Half-sister**: Half-sister
 
 ## Relationships
-*   **Husband**: Esposo
-*   **Wife**: Esposa
-*   **Boyfriend**: Novio
-*   **Girlfriend**: Novia
-*   **Fiancé**: Prometido (male)
-*   **Fiancée**: Prometida (female)
+*   **Husband**: Husband
+*   **Wife**: Wife
+*   **Boyfriend**: Boyfriend
+*   **Girlfriend**: Girlfriend
+*   **Fiancé**: Fiancé
+*   **Fiancée**: Fiancée
 *   **Partner**: Partner
-*   **Ex-husband**: Ex esposo
-*   **Ex-wife**: Ex esposa
+*   **Ex-husband**: Ex-husband
+*   **Ex-wife**: Ex-wife
 
 ## Marital Status (Estado civil)
 *   **Single**: Single
@@ -1954,7 +2037,51 @@ ________________________________________
 ________________________________________
 ________________________________________
 ________________________________________
-________________________________________`
+________________________________________
+
+---
+
+## 📚 Glosario de Traducción
+
+| English | Español |
+|---------|---------|
+| **Family** | Familia |
+| **Parents** | Padres |
+| **Father** | Padre |
+| **Mother** | Madre |
+| **Son** | Hijo |
+| **Daughter** | Hija |
+| **Brother** | Hermano |
+| **Sister** | Hermana |
+| **Grandfather** | Abuelo |
+| **Grandmother** | Abuela |
+| **Uncle** | Tío |
+| **Aunt** | Tía |
+| **Cousin** | Primo/Prima |
+| **Nephew** | Sobrino |
+| **Niece** | Sobrina |
+| **Husband** | Esposo |
+| **Wife** | Esposa |
+| **Boyfriend** | Novio |
+| **Girlfriend** | Novia |
+| **Fiancé** | Prometido |
+| **Fiancée** | Prometida |
+| **Partner** | Pareja |
+| **Father-in-law** | Suegro |
+| **Mother-in-law** | Suegra |
+| **Brother-in-law** | Cuñado |
+| **Sister-in-law** | Cuñada |
+| **Son-in-law** | Yerno |
+| **Daughter-in-law** | Nuera |
+| **Stepfather** | Padrastro |
+| **Stepmother** | Madrastra |
+| **Single** | Soltero/a |
+| **Married** | Casado/a |
+| **Divorced** | Divorciado/a |
+| **Widowed** | Viudo/a |
+| **Older** | Mayor |
+| **Younger** | Menor |
+| **Only child** | Hijo único |`
             },
             {
                 title: "3.2: My Home and Furniture",
@@ -2182,7 +2309,47 @@ Use these words to create sentences with prepositions:
 2. shoes / bed / under
 3. picture / wall / on
 4. car / house / in front of
-5. plant / window / next to`
+5. plant / window / next to
+
+---
+
+## 📚 Glosario de Traducción
+
+| English | Español |
+|---------|---------|
+| **House** | Casa |
+| **Apartment** | Apartamento |
+| **Room** | Habitación |
+| **Bedroom** | Dormitorio |
+| **Living room** | Sala de estar |
+| **Dining room** | Comedor |
+| **Kitchen** | Cocina |
+| **Bathroom** | Baño |
+| **Garage** | Garaje |
+| **Garden** | Jardín |
+| **Sofa** | Sofá |
+| **Chair** | Silla |
+| **Table** | Mesa |
+| **Bed** | Cama |
+| **Desk** | Escritorio |
+| **Wardrobe** | Armario |
+| **Lamp** | Lámpara |
+| **Mirror** | Espejo |
+| **Rug** | Alfombra |
+| **Curtain** | Cortina |
+| **Fridge** | Refrigerador |
+| **Stove** | Estufa |
+| **Sink** | Lavabo/Fregadero |
+| **Shower** | Ducha |
+| **Bathtub** | Bañera |
+| **Toilet** | Inodoro |
+| **On** | Sobre/En |
+| **In** | En/Dentro de |
+| **Under** | Debajo de |
+| **Next to** | Al lado de |
+| **Between** | Entre |
+| **Behind** | Detrás de |
+| **In front of** | Delante de |`
             },
             {
                 title: "3.3: Jobs and Workplaces",
@@ -2406,7 +2573,47 @@ Use the words to create complete sentences:
 2. My father / work / bank
 3. She / be / doctor
 4. Where / you / work?
-5. He / work for / big company`
+5. He / work for / big company
+
+---
+
+## 📚 Glosario de Traducción
+
+| English | Español |
+|---------|---------|
+| **Teacher** | Profesor/a |
+| **Doctor** | Doctor/a |
+| **Nurse** | Enfermero/a |
+| **Engineer** | Ingeniero/a |
+| **Lawyer** | Abogado/a |
+| **Student** | Estudiante |
+| **Chef** | Cocinero/a |
+| **Waiter** | Mesero/a |
+| **Police officer** | Policía |
+| **Firefighter** | Bombero/a |
+| **Driver** | Conductor/a |
+| **Pilot** | Piloto |
+| **Dentist** | Dentista |
+| **Architect** | Arquitecto/a |
+| **Accountant** | Contador/a |
+| **Mechanic** | Mecánico/a |
+| **Electrician** | Electricista |
+| **Plumber** | Plomero/a |
+| **Painter** | Pintor/a |
+| **Farmer** | Agricultor/a |
+| **Secretary** | Secretario/a |
+| **Manager** | Gerente |
+| **Artist** | Artista |
+| **Musician** | Músico/a |
+| **Actor** | Actor/Actriz |
+| **Writer** | Escritor/a |
+| **School** | Escuela |
+| **Hospital** | Hospital |
+| **Office** | Oficina |
+| **Restaurant** | Restaurante |
+| **Shop** | Tienda |
+| **Factory** | Fábrica |
+| **Bank** | Banco |`
             },
             {
                 title: "3.4: Countries and Nationalities",
@@ -4626,6 +4833,60 @@ Write a short dialogue (A and B) where one person orders food and drink, and the
 **B**: ________________________________________
 **A**: ________________________________________
 **B**: ________________________________________
+
+---
+
+## 📚 Glosario de Traducción
+
+| English | Español |
+|---------|---------|
+| **Food** | Comida |
+| **Drink** | Bebida |
+| **Breakfast** | Desayuno |
+| **Lunch** | Almuerzo |
+| **Dinner** | Cena |
+| **Snack** | Merienda |
+| **Meat** | Carne |
+| **Chicken** | Pollo |
+| **Beef** | Res/Carne de vaca |
+| **Pork** | Cerdo |
+| **Fish** | Pescado |
+| **Egg** | Huevo |
+| **Bread** | Pan |
+| **Rice** | Arroz |
+| **Pasta** | Pasta |
+| **Vegetables** | Verduras/Vegetales |
+| **Fruit** | Fruta |
+| **Apple** | Manzana |
+| **Banana** | Plátano/Banana |
+| **Orange** | Naranja |
+| **Tomato** | Tomate |
+| **Potato** | Papa/Patata |
+| **Carrot** | Zanahoria |
+| **Cheese** | Queso |
+| **Butter** | Mantequilla |
+| **Milk** | Leche |
+| **Water** | Agua |
+| **Coffee** | Café |
+| **Tea** | Té |
+| **Juice** | Jugo |
+| **Soda** | Refresco/Gaseosa |
+| **Beer** | Cerveza |
+| **Wine** | Vino |
+| **Sugar** | Azúcar |
+| **Salt** | Sal |
+| **Pepper** | Pimienta |
+| **Cake** | Pastel/Torta |
+| **Cookie** | Galleta |
+| **Ice cream** | Helado |
+| **Delicious** | Delicioso |
+| **Sweet** | Dulce |
+| **Sour** | Agrio/Ácido |
+| **Bitter** | Amargo |
+| **Spicy** | Picante |
+| **Healthy** | Saludable |
+| **Hungry** | Hambriento |
+| **Thirsty** | Sediento |
 
 ---
 *Next Lesson: 5.4 The Weather and Seasons*`

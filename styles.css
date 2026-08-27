@@ -1158,6 +1158,20 @@ button {
     background: var(--bg-tag);
 }
 
+/* Tablas de traducción - sin botones de audio */
+.lesson-body-content table.translation-table {
+    background: var(--bg-card-subtle);
+}
+
+.lesson-body-content table.translation-table thead {
+    background: var(--warning-bg);
+}
+
+.lesson-body-content table.translation-table th {
+    color: var(--warning);
+    font-weight: 700;
+}
+
 /* Botón de audio para palabras o frases */
 .btn-speech-play {
     display: inline-flex;
